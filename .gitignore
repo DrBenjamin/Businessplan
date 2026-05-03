@@ -219,3 +219,5 @@ __marimo__/
 
 /.quarto/
 **/*.quarto_ipynb
+.Rproj.user
+.positai
