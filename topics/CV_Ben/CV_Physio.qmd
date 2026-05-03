@@ -1,0 +1,86 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Physiotherapy training, certifications, and leadership development in healthcare"
+author:
+  name: "Benjamin Gross"
+  email: ben@seriousbenentertainment.org
+abstract:
+  My Physiotherapy CV, including training and certifications in various therapeutic techniques and methods, as well as leadership and management training within the healthcare sector.
+format:
+  html:
+    embed-resources: true
+    theme: cerulean
+    toc: true
+    toc-expand: 5
+    toc-depth: 5
+    number-sections: false
+    number-depth: 5
+  pdf:
+    keep-tex: false
+    include-in-header:
+      text: |
+        \usepackage[noblocks]{authblk}
+        \renewcommand*{\Authsep}{, }
+        \renewcommand*{\Authand}{, }
+        \renewcommand*{\Authands}{, }
+        \renewcommand\Affilfont{\small}
+    documentclass: scrartcl
+    classoption: [onecolumn, oneside, a4paper]
+    linkcolor: blue
+    urlcolor: blue
+    filecolor: magenta
+    citecolor: magenta
+    colorlinks: true
+    margin-left: "1in"
+    margin-right: "1in"
+    margin-top: "1in"
+    margin-bottom: "1in"
+    papersize: a4
+    fig-cap-location: top
+    toc: true
+    toc-depth: 5
+    number-sections: true
+    lof: false
+    lot: false
+link-citations: true
+suppress-bibliography: false
+execute:
+  enabled: true
+  echo: false
+---
+
+\clearpage
+
+::: callout-note
+## CV Ben Physiotherapist
+
+* 09/2004 to 09/2007 — Training as a State-Certified Physiotherapist
+* 10/2007 — Training as an Orthopaedic Back Care Instructor
+* 04/2008 — Training in Three-Dimensional Scoliosis Therapy
+* 11/2008 to 02/2009 — Training as a Certified Brügger Therapist
+* 06/2009 — Advanced Training in Fitness Machine Therapy and Exercise Instruction
+* 06/2009 — Training as a Licensed Physio CORE® Personal Fitness Trainer
+* 06/2009 — Training as a Nordic Walking Instructor
+* 09/2009 — Advanced Training in Spiraldynamik® – Spine and Lower Limb Alignment
+* 08/2009 to 10/2009 — Advanced Training in Motopedics (Psychomotor Therapy)
+* 10/2009 to 03/2013 — Training as an Alexander Technique Teacher in Düsseldorf
+* 10/2010 to 06/2012 — Training as an Aromatologist® (Aromatherapy)
+* Since 12/2010 — Training in the 5Rhythms® Method (multiple courses and workshops)
+* 06/2012 — Training in “Flight of the Eagle” – Shamanic Ritual and Healing Work
+* 09/2012 to 12/2012 — Advanced Training in POL Learning System, ICF Assessment, Evidence-Based Practice, Physiotherapeutic Clinical Reasoning, and Clinimetrics within the Bachelor’s Degree Programme in Physiotherapy at Hogeschool Zuyd (Netherlands)
+* 03/2013 — Training as a Golf Physio Trainer at the Cologne Coaching Academy
+* 10/2013 to 10/2015 — Advanced Training in Osteopathic Techniques (International Osteopathy Academy)
+* 01/2014 to 02/2014 — Training as an Exercise Instructor for Rehabilitation and Disability Sports
+* 03/2014 — First Aid Training for Workplace Settings (Malteser Hilfsdienst e.V.)
+* 03/2014 — Training in Physiotherapeutic Running School – Elithera® run (Video-Supported Analysis and Training Concept)
+* 07/2014 to 06/2016 — Advanced Training in Leadership Competencies within the Ziegler Group, supported by Elithera®
+* 07/2014 — Training as TK Rücken Basic & Plus Course Instructor
+* 10/2014 to 02/2015 — Advanced Training in the Elithera® 7-Phase Training System (Medical Training Therapy Qualification)
+* 01/2015 — Refresher Training in Three-Dimensional Scoliosis Therapy (Schroth Method)
+* 05/2015 — Training in Foot Alignment and Postural Stability (Proprioceptive Insoles)
+* 05/2015 — Training as a Progressive Muscle Relaxation Instructor according to Jacobson
+* 06/2015 — Training as a Burnout Prevention Consultant and Seminar Leader
+* 09/2016 — Advanced Training at the Alexander Technique Festival (2 Workshops)
+* 09/2016 — Advanced Training in Therapeutic Climbing (Top-Rope Climbing Certification)
+* 06/2017 — First Aid Training
+* 09/2017 — Advanced Training in Manual Lymphatic Drainage
