@@ -7,5 +7,5 @@ Serious Ben Entertainment Business Planning.
 To render the Quarto document, use the following command in your terminal:
 
 ```bash
-quarto render Businessplan_Therapy_Center.qmd
+quarto render Businessplan.qmd
 ```
