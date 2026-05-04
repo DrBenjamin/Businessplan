@@ -122,7 +122,7 @@ Signature services (see below) combine clinical expertise with low-cost digital 
 
 **Business model and operations:**
 
-- MASM and CHAM, as well as a Fee-for-service model (private pay), supplemented by contracts with local employers (like LGC), NGOs (like GIZ), and other partner organizations.
+- MASM and CHAM, as well as a Fee-for-service model (private pay), supplemented by contracts with local employers (like LGC), NGOs (like GIZ), and other partner organizations (like BMIS).
 - Small core team: founders as primary clinicians, supported by part-time administrative staff.
 - On-site delivery in rented rooms at LGC (back-office, counselling rooms, treatment/training rooms); flexible hours including early mornings and evenings to match member needs.
 - Digital support: simple website for information and booking, digital client records and measurement tools to support clinical care.
