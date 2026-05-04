@@ -75,25 +75,26 @@ Dear Mr. Harvey Chingondo,
 
 **REQUEST FOR OFFICE SPACE AT LILONGWE GOLF CLUB TO ESTABLISH A THERAPY CENTER**
 
-We are writing to request the allocation of suitable office space at Lilongwe Golf Club (LGC) to establish a small multidisciplinary Therapy Center serving club members and the surrounding community. The Therapy Center will provide physiotherapy and social counseling services, offer individual and group treatments, and run short training workshops and community outreach programs.
+We are writing to request the allocation of suitable office space at Lilongwe Golf Club (LGC) to establish a small multidisciplinary Therapy Center serving club members and the surrounding community. The Therapy Center will provide physiotherapy and social counselling services, offer individual and group treatments, and run short training workshops and community outreach programs.
 
 **Founders:**
 
 - Benjamin Gross — Physiotherapist; B.Sc. Health Economics; M.Sc. Data Science for Health
-- Phelire Chisi — Social Worker, B.Sc., Counselor
+- Phelire Chisi — Social Worker, B.Sc., Counsellor
 
 **Requested space and facilities:**
 
 - One back-office / administration room for bookings and records
-- One private counseling rooms for social and family counseling
+- One staff quarters (room) to enable overnight availability for late consultations and hotel guest needs
+- One private counselling rooms for social and family counselling
 - Two training/treatment rooms for physiotherapy, occupational therapy and small group classes
 - Storage space for equipment and supplies
-- Access to utilities (electricity, water) and restroom access
+- Access to utilities (electricity, water) and restrooms access
 - Reception access and basic signage for client-facing services
 
 Proposed start date: End of 2026 (flexible). We are open to discuss lease terms, rental rates, and any compliance requirements. We believe a Therapy Center at LGC will enhance member well-being and strengthen community ties.
 
-Please contact us to arrange a meeting: [ben\@seriousbenentertainment.org](mailto:ben@seriousbenentertainment.org) or [+265 99 904 7968](phone:%20+265%2099%20904%207968).
+Please contact us to arrange a personal meeting: [ben\@seriousbenentertainment.org](mailto:ben@seriousbenentertainment.org) or [+265 99 904 7968](phone:%20+265%2099%20904%207968).
 
 Thank you for considering our request.
 
@@ -114,7 +115,7 @@ A therapy center with Physiotherapy, Occupational Therapy and Psychosocial Consu
 **Core services:**
 
 - Physiotherapy: individual assessment and treatment, musculoskeletal rehabilitation, manual therapy and exercise prescription [@Gross2026P].
-- Psychosocial counseling & family support: individual and family counseling, social case work and linkage to community resources [@Chisi2026].
+- Psychosocial counselling & family support: individual and family counselling, social case work and linkage to community resources [@Chisi2026].
 - Group programs: small-group exercise classes, prevention and wellness workshops (e.g., back health, stress management) [@Gross2026P].
 
 Signature services (see below) combine clinical expertise with low-cost digital assessment tools to improve diagnostic accuracy and track progress objectively.
@@ -123,7 +124,7 @@ Signature services (see below) combine clinical expertise with low-cost digital 
 
 - MASM and CHAM, as well as a Fee-for-service model (private pay), supplemented by contracts with local employers (like LGC), NGOs (like GIZ), and other partner organizations.
 - Small core team: founders as primary clinicians, supported by part-time administrative staff.
-- On-site delivery in rented rooms at LGC (back-office, counseling rooms, treatment/training rooms); flexible hours including early mornings and evenings to match member needs.
+- On-site delivery in rented rooms at LGC (back-office, counselling rooms, treatment/training rooms); flexible hours including early mornings and evenings to match member needs.
 - Digital support: simple website for information and booking, digital client records and measurement tools to support clinical care.
 
 The approach balances clinical quality with low operating overhead and local partnerships to ensure sustainability while meeting community needs.
@@ -135,37 +136,24 @@ The approach balances clinical quality with low operating overhead and local par
 
 The Therapy Center will offer two signature services that combine clinical practice with targeted digital support:
 
-- **Creative psychosocial healing Program (Phelire Chisi)**: Offers a distinct approach that moves beyond traditional talk based counseling by integrating structured creative expression into the healing process. Through guided methods such as therapeutic photography and craft based activities, the service supports deeper emotional processing where words alone may be limited. This approach addresses aspects that are often overlooked in everyday life but are essential to meaningful and lasting healing. [@Chisi2023].
+- **Creative psychosocial healing Program (Phelire Chisi)**: Offers a distinct approach that moves beyond traditional talk based counselling by integrating structured creative expression into the healing process. Through guided methods such as therapeutic photography and craft based activities, the service supports deeper emotional processing where words alone may be limited. This approach addresses aspects that are often overlooked in everyday life but are essential to meaningful and lasting healing. [@Chisi2023].
 
 - **AI-extended video movement analysis (Benjamin Gross):** A clinician-operated service that uses video recordings and an AI-assisted analysis pipeline to support objective assessment of movement, posture and functional performance. The tool is designed as a clinical decision support aid to complement hands-on assessment, enabling objective baseline measures, progress tracking, and tailored exercise prescriptions. Patient privacy and data security are integral: video analysis is performed with consent and data storage follows local and international best-practice guidelines [@BenjaminGross2026].
 
 These services will be delivered alongside standard physiotherapy, occupational therapy and group programs and form the core clinical identity of the Therapy Center.
 :::
 
-## Facilities and Office Requirements {#sec-facilities}
-
-The Therapy Center requires compact, functional spaces to deliver clinical services with low overhead. Required spaces include:
-
-- **Back-office / Administration:** desk, computer, secure client records storage and a small workstation for administrative tasks.
-- **Counseling room (1):** private room for social and family counseling; chairs, small table, sound privacy.
-- **Training / Treatment rooms (2):** treatment plinth(s), exercise mats, small equipment (weights, bands), space for supervised group classes (like 15/30 m²).
-- **Storage room:** secure storage for therapy equipment and consumables.
-- **Client access & utilities:** waiting area or shared reception, restroom access, reliable electricity, clean water, and internet connectivity.
-- **Accessibility & safety:** step-free access where possible, basic first-aid supplies, and infection-control procedures.
-
-These rooms can be configured within the existing Club premises or as adjacent leased offices. A compact layout with clear signage and a small reception or shared check-in will be sufficient for the first phase of operations.
-
 ### Target groups and positioning
 
 The Therapy Center's primary target groups are:
 
-- Private individuals seeking physiotherapy, occupational therapy or social counseling
+- Private individuals seeking physiotherapy, occupational therapy or social counselling
 - Members of Lilongwe Golf Club (primary local audience)
 - Local employers and businesses interested in occupational rehabilitation and workplace wellness
 - NGOs, community organizations and clinics seeking referral partnerships or joint programs
 - Health professionals needing reliable rehabilitation and social-support referral options
 
-**Positioning:** The Therapy Center will position itself as a leading provider of evidence-based rehabilitation and wellness services in Malawi, combining internationally informed clinical expertise with advanced digital health technologies. Its signature services — including AI-supported movement analysis and integrated family counseling — will differentiate the center through measurable outcomes, multidisciplinary care, and strong professional referral networks.
+**Positioning:** The Therapy Center will position itself as a leading provider of evidence-based rehabilitation and wellness services in Malawi, combining internationally informed clinical expertise with advanced digital health technologies. Its signature services — including AI-supported movement analysis and integrated family counselling — will differentiate the center through measurable outcomes, multidisciplinary care, and strong professional referral networks.
 
 **Operational focus:** start with on-site clinical services at LGC, build referral networks and offer small-group workshops and employer-focused programs to expand reach.
 
@@ -175,7 +163,7 @@ Our combined clinical, social and technical training provides a robust foundatio
 
 - **Physiotherapy and clinical training:** deep knowledge of movement, posture and therapeutic exercise (Benjamin: state-qualified physiotherapist).
 - **Golf-specific physiotherapy:** experience and certification in golf physiotherapy and sport-specific conditioning supported with video analysis.
-- **Social work and family counseling:** social case management, family systems work and linkage to community resources (Phelire: B.Sc. Social Work).
+- **Social work and family counselling:** social case management, family systems work and linkage to community resources (Phelire: B.Sc. Social Work).
 - **Data science and digital assessment tools:** M.Sc. Data Science training and practical experience with computer vision and AI-supported movement analysis to support objective assessment and progress tracking.
 
 Together these competencies allow the Therapy Center to combine hands-on clinical care with practical digital measurement tools to improve diagnosis, monitor outcomes, and deliver targeted rehabilitation programs, while also collecting valuable data to strengthen Malawi’s health research, evidence base, and future digital healthcare development.
@@ -188,19 +176,27 @@ Together these competencies allow the Therapy Center to combine hands-on clinica
 
 - **Benjamin Gross**
   - M.Sc. Data Science (2023–2026, University of Edinburgh, Scotland) — thesis on computer vision for movement analysis
+
   - B.Sc. Health economics (2017–2019, University of Applied Sciences Cologne, Germany) - thesis on iPad serious game for movement assessment
+
   - Physiotherapist (2004–2007)
+
   - Golf Physio Trainer (2014–2015, Golfphysio Germany)
+
   - Alexander Technique teacher training (2010-2013)
+
   - Brügger therapy diploma
+
   - PhysioCORE® Personal Trainer
+
   - Certified relaxation and back-school instructor
 
-For Benjamin's PT CV see: [CV Physio.pdf](topics/CV_Ben/CV_Physio.pdf), for his Management CV see: [CV](topics/CV_Ben/CV.pdf) (or find it attached in the printout version)
-
+    [@Gross2026M; @Gross2026P]
 - **Phelire Chisi**
   - B.Sc. Social Work
-  - Professional training in family counseling and social case management
+
+  - Professional training in family counselling and social case management
+
   - Practical experience coordinating community resources and client support
 
-For Phelire's full CV see: [CV](topics/CV_Phelire/CV_Phelire.pdf) (or find it attached in the printout version)
+    [@Chisi2026]
