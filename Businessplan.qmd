@@ -11,7 +11,7 @@ author:
 filters:
   - topics/adjustTime.lua
 abstract: |
-  This business plan covers the establishment of Serious Ben Entertainment, a global SaaS company developing Serious Health Games and AI-supported coaching for an international English-speaking audience. The plan outlines the company's mission, global market opportunity, modular product offerings (such as the BenBen - Back School game), the creative-clinical-technical founding team, marketing strategy, financial projections, and operational plan. Domestic adaptations — for example, certification of selected modules as §20 SGB V primary-prevention courses for the German statutory health-insurance market — are presented as one country-specific go-to-market path rather than the core business model. The goal is to build a sustainable, scalable business that delivers evidence-based, playful health experiences worldwide while achieving profitability and growth.
+  This business plan covers the establishment of Serious Ben Entertainment, a global SaaS company developing Serious Health Games and AI-supported coaching for an international English-speaking audience. The plan outlines the company's mission, global market opportunity, modular product offerings (such as the BenBen - Back School game), the creative-clinical-technical founding team, marketing strategy, financial projections, and operational plan.
 format:
   html:
     embed-resources: true
