@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "Businessplan",
+  "project_id": "b45550c1-7a8c-4461-a8dc-5d54364ef932"
+}
