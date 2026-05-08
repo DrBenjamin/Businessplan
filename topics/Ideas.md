@@ -35,5 +35,8 @@
 
 - Good vibe
   - Space holding!!!
+  - other (fine-grained factors that contribute to a good vibe)
     - Good music
     - Good food
+    - Tasty drinks
+    - Affordable prices
