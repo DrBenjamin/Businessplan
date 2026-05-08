@@ -1,0 +1,23 @@
+name: Trigger DrBenjamin.github.io
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch to site repo
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.DISPATCH_TOKEN }}
+          repository: DrBenjamin/DrBenjamin.github.io
+          event-type: fetch_webpage
+          client-payload: |
+            {
+              "source": "${{ github.repository }}",
+              "sha": "${{ github.sha }}",
+              "reason": "content updated"
+            }
