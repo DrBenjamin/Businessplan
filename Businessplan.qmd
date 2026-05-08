@@ -1,17 +1,17 @@
 ---
 title: "Business Plan"
-subtitle: "Therapy Center"
+subtitle: "Serious Ben Entertainment"
 author:
   name: "Benjamin Gross & Phelire Chisi"
   email: ben@seriousbenentertainment.org
   affiliation:
-    - Therapy Center
+    - Serious Ben Entertainment
     - "Email: ben@seriousbenentertainment.org"
     - "Website: https://www.seriousbenentertainment.org"
 filters:
   - topics/adjustTime.lua
 abstract: |
-  This business plan covers the establishment of a Therapy Center at Lilongwe Golf Club (LGC), Malawi.
+  This business plan covers the establishment of Serious Ben Entertainment, a company focused on providing innovative entertainment solutions. The plan outlines the company's mission, market analysis, product offerings, marketing strategy, financial projections, and operational plan. The goal is to create a sustainable business that delivers high-quality entertainment experiences to our target audience while achieving profitability and growth.
 format:
   html:
     embed-resources: true
@@ -62,143 +62,788 @@ execute:
 ::: callout-note
 ## Founding Proposal
 
-**Founding:** Therapy Center at Lilongwe Golfclub (LGC), Malawi\
+**Founding:** Serious Ben Entertainment is a new company focused on providing innovative health entertainment solutions. The company will be founded by Benjamin Gross and Phelire Chisi, who bring a unique combination of skills and experience in the entertainment and education industry. The company will be based in Lilongwe, Malawi, and will serve a global english speaking audience through digital platforms.
 
-**Founders:** Benjamin Gross & Phelire Chisi\
-New Area 43\
+**Founders:** Benjamin Gross & Phelire Chisi
+New Area 43
 Lilongwe
 :::
 
-To: The General Manager Lilongwe Golf Club Area 3 Lilongwe
+# Kurzbeschreibung des Vorhabens {#sec-kurzbeschreibung}
 
-Dear Mr. Harvey Chingondo,
+Serious Ben Entertainment entwickelt eine webbasierte SaaS-Plattform für digitales Gesundheitscoaching: zertifizierte §20-Präventionskurse (z. B. Rückenschule oder Entspannungstechniken), (KI-gestütztes) Coaching und kostenlose Diagnosetools zur Lead-Generierung. Ziel sind Privatpersonen, Krankenkassen und Unternehmen (BGM).
 
-**REQUEST FOR OFFICE SPACE AT LILONGWE GOLF CLUB TO ESTABLISH A THERAPY CENTER**
+## Geschäftsidee {#sec-geschaeftsidee}
 
-We are writing to request the allocation of suitable office space at Lilongwe Golf Club (LGC) to establish a small multidisciplinary Therapy Center serving club members and the surrounding community. The Therapy Center will provide physiotherapy and social counselling services, offer individual and group treatments, and run short training workshops and community outreach programs.
+Ich gründe **Serious Ben Entertainment**, ein digitales Unternehmen, das innovative SaaS-Lösungen (Software as a Service) im Bereich (Gesundheits-)Coaching und Prävention entwickelt und anbietet. Im Mittelpunkt steht die Entwicklung und Bereitstellung webbasierter Anwendungen über die Plattform [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org), die Menschen niedrigschwellig bei der Gesundheitsförderung und Persönlichkeitsentwicklung unterstützen – von präventiven Gesundheitskursen bis hin zu KI-gestütztem und klassischem Coaching.
 
-**Founders:**
+Das Geschäftsmodell basiert auf vier Säulen, wobei Säule 4 zur Sicherung der finanziellen Stabilität in der Anfangsphase dient:
 
-- Benjamin Gross — Physiotherapist; B.Sc. Health Economics; M.Sc. Data Science for Health
-- Phelire Chisi — Social Worker, B.Sc., Counsellor
+1.  **Zertifizierte §20 SGB V Präventionskurse als digitale Apps** (Rückenschule, Entspannungstechniken, Qi-Gong) mit einem Preis von 150 Euro, wovon gesetzliche Krankenkassen 75-150 Euro erstatten.
+2.  **KI-gestütztes und klassisches Coaching** für ganzheitliche Gesundheitsförderung und Persönlichkeitsentwicklung.
+3.  **Kostenlose diagnostische Mini-Apps** (Fragebögen, Persönlichkeitsspiele) als Einstiegsprodukte, die durch evidenzbasierte Auswertungen Entwicklungspotenziale aufzeigen und kostenpflichtige Coaching-Dienste bewerben und vermitteln.
+4.  **Dozententätigkeit an der Hochschule Fresenius** zur Sicherung eines stabilen Einkommens während der Gründungsphase (Jahr 1 / 2).
 
-**Requested space and facilities:**
+Die technische Umsetzung der Services erfolgt über:
 
-- One back-office / administration room for bookings and records
-- One staff quarters (room) to enable overnight availability for late consultations and hotel guest needs
-- One private counselling rooms for social and family counselling
-- Two training/treatment rooms for physiotherapy, occupational therapy and small group classes
-- Storage space for equipment and supplies
-- Access to utilities (electricity, water) and restrooms access
-- Reception access and basic signage for client-facing services
+-   Eine **Angular-basierte Webanwendung** ([www.seriousbenentertainment.org](https://www.seriousbenentertainment.org)) als zentrale SaaS-Plattform
+    -   **Serious Games** zur spielerischen Gesundheitsförderung.
+    -   **Conversational AI und KI-gestützte Analysen** für personalisierte Empfehlungen.
+-   **Skalierbare Cloud-Infrastruktur** (z.B. Snowflake Cloud) für flexible Dienstleistungsbereitstellung ohne (hohe) Fixkosten.
+-   **Eigenentwicklung** gestützt durch meine eigenen Entwicklerfähigkeiten, Github Copilot und andere Entwicklungswerkzeuge um hohe Kosten zu vermeiden, sowie Best Practices die ich während meiner Zeit bei adesso SE gelernt habe.
 
-Proposed start date: End of 2026 (flexible). We are open to discuss lease terms, rental rates, and any compliance requirements. We believe a Therapy Center at LGC will enhance member well-being and strengthen community ties.
+![Webseite - Gesundheitskurse](./topics/Webpage.png)
 
-Please contact us to arrange a personal meeting: [ben\@seriousbenentertainment.org](mailto:ben@seriousbenentertainment.org) or [+265 99 904 7968](phone:%20+265%2099%20904%207968).
+![Webseite - Shop](./topics/Webpage_Shop.png)
 
-Thank you for considering our request.
-
-Sincerely,
-
-Benjamin Gross & Phelire Chisi
-
-\clearpage
-
-# Short description of the Business {#sec-shortdesc}
-
-A therapy center with Physiotherapy, Occupational Therapy and Psychosocial Consultant services for physical and mental training and rehabilitation should be established in offices of the Lilongwe Golf Club (LGC), which provides a unique setting for health and wellness services. The center will offer a range of services including individual and group therapy sessions, Yoga, QiGong and meditation classes, as well as evidence-based wellness programs. The goal is to provide high-quality, accessible healthcare services to the local (golfing) community.
-
-## Idea of the Business {#sec-geschaeftsidee}
-
-`Therapy Center` is a multidisciplinary outpatient practice planned for offices at Lilongwe Golf Club (LGC) in Lilongwe, Malawi. The center is founded by Benjamin Gross (Physiotherapist; B.Sc. Health Economics; M.Sc. Data Science) and Phelire Chisi (Social Worker, B.Sc.). Our mission is to provide accessible, evidence-based rehabilitation and social support services to club members and the wider community.
-
-**Core services:**
-
-- Physiotherapy: individual assessment and treatment, musculoskeletal rehabilitation, manual therapy and exercise prescription [@Gross2026P].
-- Psychosocial counselling & family support: individual and family counselling, social case work and linkage to community resources [@Chisi2026].
-- Group programs: small-group exercise classes, prevention and wellness workshops (e.g., back health, stress management) [@Gross2026P].
-
-Signature services (see below) combine clinical expertise with low-cost digital assessment tools to improve diagnostic accuracy and track progress objectively.
-
-**Business model and operations:**
-
-- MASM and CHAM, as well as a Fee-for-service model (private pay), supplemented by contracts with local employers (like LGC), NGOs (like GIZ), and other partner organizations (like BMIS).
-- Small core team: founders as primary clinicians, supported by part-time administrative staff.
-- On-site delivery in rented rooms at LGC (back-office, counselling rooms, treatment/training rooms); flexible hours including early mornings and evenings to match member needs.
-- Digital support: simple website for information and booking, digital client records and measurement tools to support clinical care.
-
-The approach balances clinical quality with low operating overhead and local partnerships to ensure sustainability while meeting community needs.
-
-\clearpage
+![Webseite - Kurs](./topics/Webpage_Kurs.png)
 
 ::: callout-important
-## Signature Services
+## Flagship-Produkt
 
-The Therapy Center will offer two signature services that combine clinical practice with targeted digital support:
-
-- **Creative psychosocial healing Program (Phelire Chisi)**: Offers a distinct approach that moves beyond traditional talk based counselling by integrating structured creative expression into the healing process. Through guided methods such as therapeutic photography and craft based activities, the service supports deeper emotional processing where words alone may be limited. This approach addresses aspects that are often overlooked in everyday life but are essential to meaningful and lasting healing. [@Chisi2023].
-
-- **AI-extended video movement analysis (Benjamin Gross):** A clinician-operated service that uses video recordings and an AI-assisted analysis pipeline to support objective assessment of movement, posture and functional performance. The tool is designed as a clinical decision support aid to complement hands-on assessment, enabling objective baseline measures, progress tracking, and tailored exercise prescriptions. Patient privacy and data security are integral: video analysis is performed with consent and data storage follows local and international best-practice guidelines [@BenjaminGross2026].
-
-These services will be delivered alongside standard physiotherapy, occupational therapy and group programs and form the core clinical identity of the Therapy Center.
+Das **Flagship-Produkt** ist die **BenBox RS (Rückenschule)**, ein als Serious Game konzipiertes, zertifiziertes §20 Präventionsprogramm zur Vorbeugung von Rückenschmerzen und Einschränkungen des Bewegungsapparats. Als webbasierte SaaS-Anwendung kombiniert es spielerische Elemente mit evidenzbasierten Übungen (z.B. Brügger Therapie) mit Haltungserkennung (selbstentwickeltes Deep Learning Modell - CNN) und wird zum Preis von 150 Euro angeboten, wobei Krankenkassen bis zu 150 Euro erstatten. Dieser und andere Präventionskurse, wie Entspannungstechniken oder Qi-Gong, werden als digitale Apps über die Plattform bereitgestellt. Die Zentrale Prüfstelle für Prävention (ZPP) zertifiziert diese Services gemäß §20 SGB V z.B. in der Kategorie [Game based learning/serious games/e-teaching](https://www.zentrale-pruefstelle-praevention.de/leistungen/praeventionsangebot-zertifizieren-lassen/ikt-angebote/zertifizierbare-ikt-formate/).
 :::
 
-### Target groups and positioning
+### Zielgruppen und Positionierung
 
-The Therapy Center's primary target groups are:
+Die SaaS Plattform richtet sich primär an:
 
-- Private individuals seeking physiotherapy, occupational therapy or social counselling
-- Members of Lilongwe Golf Club (primary local audience)
-- Local employers and businesses interested in occupational rehabilitation and workplace wellness
-- NGOs, community organizations and clinics seeking referral partnerships or joint programs
-- Health professionals needing reliable rehabilitation and social-support referral options
+-   **Gesetzliche Krankenkassen** als Partner (diese werden ein zentraler Marktzugangskanal sein, siehe *1.4.4 Marketing und Vertrieb - Kooperationen und Partnerschaften*) für §20 SGB V Präventionskurse
+-   **Gesundheitsinteressierte Privatpersonen** als direkte Endkunden der SaaS-Plattform
+-   **Unternehmen im BGM-Kontext** (Betriebliches Gesundheitsmanagement) für Mitarbeitergesundheit
+-   **Coaching-Klienten** für persönliche und KI-gestützte Entwicklungsbegleitung
 
-**Positioning:** The Therapy Center will position itself as a leading provider of evidence-based rehabilitation and wellness services in Malawi, combining internationally informed clinical expertise with advanced digital health technologies. Its signature services — including AI-supported movement analysis and integrated family counselling — will differentiate the center through measurable outcomes, multidisciplinary care, and strong professional referral networks.
+Als Gründer positioniere ich mich nicht nur als (digitaler) Therapeut, Trainer und Coach, sondern auch als **Entwickler und Anbieter digitaler Gesundheitsprodukte** in Kooperation mit Therapie-Praxen. Durch meine langjährige Erfahrung in der Entwicklung und Implementierung von e-Health Produkten (2019-2025), sowie meinem Studium in Data Science (2023-2026), kann ich fachlich angepasste Lösungen mit niedriger und mittlerer Komplexität zur Verwaltung und Analyse von Gesundheitsdaten anbieten. Meine fachliche Gesundheitsexpertise beziehe ich aus meiner Physiotherapie-Ausbildung (2004-2007), dem Studium in Gesundheitsökonomie (2017-2019), den zahlreichen Therapie- und Coaching-Ausbildungen (z.B. Alexander Technik oder Burnout Beratung). All diese Kompetenzen fließen in die Entwicklung intelligenter, skalierbarer SaaS-Lösungen ein, unter Zuhilfenahme aktueller KI-Assistenzen.
 
-**Operational focus:** start with on-site clinical services at LGC, build referral networks and offer small-group workshops and employer-focused programs to expand reach.
+Das Geschäftsmodell nutzt moderne Cloud-Technologien (z.B. Snowflake) für flexible Skalierbarkeit (Berechnung und Speicherung von Daten) und ermöglicht die ortsunabhängige Nutzung aller Dienste über die Webplattform [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org) und fixe Grundkosten und Investitionen in Hardware.
 
-### Clinical and professional foundations
+## Märkte {#sec-maerkte}
 
-Our combined clinical, social and technical training provides a robust foundation for delivering evidence-based therapy services at the Therapy Center. Key strengths include:
+Der Markt für digitale Gesundheitsanwendungen (DiGA) und präventive Gesundheitsförderungs-Angebote (z.B. Prävention nach §20 SGB V) wächst kontinuierlich. Die COVID-19-Pandemie hat die Akzeptanz digitaler Gesundheitslösungen zusätzlich beschleunigt. Hinzu kommt die KI-Revolution, die die Neugierde auf KI-getriebene Gesundheitslösungen steigert. Gleichzeitig steigt der Bedarf an niedrigschwelligen Präventionsangeboten aufgrund von:
 
-- **Physiotherapy and clinical training:** deep knowledge of movement, posture and therapeutic exercise (Benjamin: state-qualified physiotherapist).
-- **Golf-specific physiotherapy:** experience and certification in golf physiotherapy and sport-specific conditioning supported with video analysis.
-- **Social work and family counselling:** social case management, family systems work and linkage to community resources (Phelire: B.Sc. Social Work).
-- **Data science and digital assessment tools:** M.Sc. Data Science training and practical experience with computer vision and AI-supported movement analysis to support objective assessment and progress tracking.
+-   Demografischem Wandel und steigender Lebenserwartung
+-   Zunahme stressbedingter Erkrankungen und psychischer Belastungen
+-   Bewegungsmangel und Rückenbeschwerden in Beruf und Alltag
+-   sowie der grundsätzlichen Digitalisierung der Gesundheitsversorgung
 
-Together these competencies allow the Therapy Center to combine hands-on clinical care with practical digital measurement tools to improve diagnosis, monitor outcomes, and deliver targeted rehabilitation programs, while also collecting valuable data to strengthen Malawi’s health research, evidence base, and future digital healthcare development.
+Die Gründung von **Serious Ben Entertainment** basiert zudem auf meiner langjährigen Erfahrung als Leistungserbringer im Gesundheitswesen (Physiotherapeut, Personal Trainer, Kursleiter, Coach und Geschäftsleiter eines Therapiezentrums), wo ich wiederholt die Grenzen traditioneller Versorgungsstrukturen erkannte. Die Entwicklung digitaler, skalierbarer Lösungen ermöglicht es, diese Einschränkungen zu überwinden und innovative Gesundheitsförderung anzubieten. Ich entwickelte digitale Produkte in unterschiedlichen Tech-Stacks, z.B. im Rahmen meiner Bachelorarbeit (Gesundheitsökonomie), ein iPad Serious Game, das ich 2019 auf der Gamescom ausstellte. Ein weiteres war ein Datenportal für das Kamuzu Central Hospital in Lilongwe, Malawi mit KI-gestützem Support.
 
-## Personal and professional qualifications {#sec-qualifikationen}
+### Marktpotenziale
 
-### Education and professional training
+Der Markt für digitale Gesundheitsdienstleistungen bietet erhebliche Wachstumspotenziale:
 
-**Selected qualifications (founders):**
+-   **§20 SGB V Prävention:** Krankenkassen investieren jährlich mehrere hundert Millionen Euro in Präventionskurse. Die Verlagerung ins Digitale wird stark gefördert.
+-   **Betriebliche Gesundheitsförderung (BGM):** Unternehmen suchen zunehmend skalierbare, digitale Lösungen für Mitarbeitergesundheit
+-   **Coaching-Markt:** Der Markt für (Gesundheits-)Coaching wächst kontinuierlich, KI-gestützte Ansätze eröffnen neue Möglichkeiten
+-   **SaaS-Modell für Anbieter:** Wiederkehrende Einnahmen durch Abonnements bzw. Produktverkäufe von für Kunden entwickelten e-Health Lösungen
 
-- **Benjamin Gross**
-  - M.Sc. Data Science (2023–2026, University of Edinburgh, Scotland) — thesis on computer vision for movement analysis
+### Fachliche Grundlagen
 
-  - B.Sc. Health economics (2017–2019, University of Applied Sciences Cologne, Germany) - thesis on iPad serious game for movement assessment
+Meine interdisziplinäre Ausbildung bildet die ideale Grundlage für die Entwicklung evidenzbasierter digitaler Gesundheitsprodukte:
 
-  - Physiotherapist (2004–2007)
+-   **Physiotherapie, Training, Kursanbieter:** Fundiertes Wissen über Bewegung, Haltung und Körperbewusstsein
+-   **Alexander-Technik, Burnout-Beratung & Coaching:** Expertise in psychischer Gesundheit und Verhaltensänderung
+-   **Gesundheitsökonomie (B.Sc.):** Verständnis für Gesundheitssysteme, Abrechnungsmodelle und Marktmechanismen
+-   **Data Science (M.Sc.):** Technische Kompetenz für Softwareentwicklung, KI-Entwicklung, Datenanalyse und Cloud-Infrastruktur sowie die Entwicklung eines Convolutional Neural Network (CNN) für Haltungs- und Bewegungserkennung
+-   **Dozent in Physiotherapie & Data Science:** Didaktische Fähigkeiten für zielgruppengerechte Wissensvermittlung
 
-  - Golf Physio Trainer (2014–2015, Golfphysio Germany)
+Dieser Mix ermöglicht mir die eigenständige Entwicklung (als Solopreneur) von SaaS-Produkten, die therapeutische Qualität mit technischer Innovation und wirtschaftlicher Tragfähigkeit verbinden.
 
-  - Alexander Technique teacher training (2010-2013)
+### Marktübersicht
 
-  - Brügger therapy diploma
+```{mermaid}
+%%| fig-cap: "Serious Ben Entertainment Produktportfolio"
+%%| fig-width: 6
+%%| fig-height: 4
+graph TD
+    A[Serious Ben Entertainment<br/>SaaS-Plattform] --> B[§20 Präventions-Apps / Kurse]
+    A --> C[Coaching-Dienste]
+    A --> D[Kostenlose Diagnose-Apps]
+    
+    B --> B1[BenBox RS<br/>Rückenschule]
+    B --> B2[Entspannungs-<br/>techniken]
+    B --> B3[Qi-Gong]
+    
+    C --> C1[Coaching]
+    C --> C2[KI-gestütztes<br/>Coaching]
+    
+    D --> D1[Persönlichkeits-<br/>fragebögen]
+    D --> D2[Mini-Spiele zur<br/>Selbstreflexion]
+```
 
-  - PhysioCORE® Personal Trainer
+## Persönliche und fachliche Voraussetzungen {#sec-qualifikationen}
 
-  - Certified relaxation and back-school instructor
+### Aus- und Fortbildungen
 
-    [@Gross2026M; @Gross2026P]
-- **Phelire Chisi**
-  - B.Sc. Social Work
+**Auszug aus Gesundheits- und Therapieausbildungen:**
 
-  - Professional training in family counselling and social case management
+-   **Staatlich geprüfter Physiotherapeut** (2004-2007)
+-   **Alexander-Technik Lehrer** (2009-2013, vierjährige Ausbildung)
+-   **Burnout-Berater** und Coach
+-   Diplom Brügger Therapeut
+-   PhysioCORE® Personal Trainer
+-   Entspannungstrainer (§20 SGB V zertifiziert)
+-   Rückenschulleiter (§20 SGB V zertifiziert)
+-   Qi-Gong Lehrer (§20 SGB V zertifiziert)
 
-  - Practical experience coordinating community resources and client support
+**Auszug akademischer Qualifikationen:**
 
-    [@Chisi2026]
+-   **Master of Science Data Science** (2023-2026, University of Edinburgh, UK)
+-   **Bachelor of Science Gesundheitsökonomie** (2017-2019, Hochschule Fresenius)
+-   **Train the Trainer** – Erwachsenenbildung (2024)
+-   **Future Work Agent** – Change Management & New Work (2020-2021)
+
+**Auszug IT-Technische Zertifizierungen:**
+
+-   **SnowPro Associate: Platform** (Snowflake, 2025) – Cloud Data Platform
+-   **adesso certified GenAI Fundamentals** (2025) – Generative KI und LLMs
+-   **ISTQB® Certified Tester Foundation Level** (2025) – Software Testing
+-   **Professional Product Owner** (Scrum.org, 2024) – Agiles Produktmanagement
+
+Weitere Details sind dem beigefügten Lebenslauf zu entnehmen.
+
+### Berufserfahrung und Kompetenzen
+
+**Aktuelle Position:**
+
+-   **Dozent an der Hochschule Fresenius** (seit 09/2025): Lehrveranstaltungen in Analytical Skills for Business und Data Science and Data Analytics
+
+**Relevante Berufserfahrung:**
+
+-   **Senior IT-Consultant bei adesso SE** (03/2024-09/2025): Data Engineering, KI-Entwicklung, Snowflake-Datenplattformen, RAG- und Agentensysteme
+-   **Technical Advisor, Ministry of Health Malawi** (01/2022-12/2023): Data Engineering & AI im Gesundheitswesen, Entwicklung von Gesundheitsdatenplattformen
+-   **Technischer Vertragsbetreuer, Deutscher Hausärzteverband** (11/2019-06/2021): Data Engineering, Projektleitung digitaler Gesundheitslösungen
+-   **Dozent Ludwig Fresenius Schule** (07/2016-10/2019): Lehrtätigkeit und eLearning-Entwicklung
+-   **Geschäftsleiter therapie centrum Rosenheim** (09/2013-06/2016): Unternehmensführung, Strategie, Mitarbeiterführung
+-   **Physiotherapeut & Dozent** (11/2007-08/2013): Therapie, Betriebliches Gesundheitsmanagement, Personal Training
+
+**Technische Kernkompetenzen:**
+
+-   **Programmierung:** Python, R, JavaScript/TypeScript, Angular
+-   **Data Engineering:** Snowflake, SQL, ETL-Prozesse, Datenmodellierung
+-   **KI/ML:** TensorFlow, Hugging Face, OpenAI API, RAG-Systeme
+-   **DevOps:** Docker, Git/GitHub, CI/CD
+-   **Gesundheits-IT:** HL7v2, FHIR, KIS/PVS-Systeme
+
+**Pädagogische und Coaching-Kompetenzen:**
+
+-   Umfangreiche Lehrerfahrung an Hochschulen und Berufsschulen
+-   Erwachsenenbildung und didaktische Aufbereitung komplexer Inhalte
+-   Coaching-Ausbildung (Alexander-Technik, Burnout-Beratung)
+-   Erfahrung in der Entwicklung von eLearning-Inhalten und Serious Games
+
+## Kundenzielgruppen, Wettbewerb, Marketing und Preisgestaltung {#sec-kunden-marketing}
+
+### Kundenzielgruppen
+
+Die SaaS-Angebote von Serious Ben Entertainment richten sich an unterschiedliche Zielgruppen mit spezifischen Bedürfnissen:
+
+**Primäre Zielgruppen:**
+
+-   **Gesundheitsbewusste Privatpersonen** (25-65 Jahre) mit Interesse an Prävention und Selbstfürsorge
+-   **Personen mit Rückenbeschwerden** oder Stressbelastung, die wegen zeitlichen Einschränkungen digitale Lösungen bevorzugen
+-   **Coaching-Interessierte**, die persönliche oder berufliche Entwicklung anstreben
+
+**Institutionelle Partner:**
+
+-   **Gesetzliche Krankenkassen** für §20 SGB V Präventionskurse in Partnerschaft (diese wird ein zentraler Marktzugangskanal sein, siehe *1.4.4 Marketing und Vertrieb - Kooperationen und Partnerschaften*)
+-   **Unternehmen** im Rahmen der Betrieblichen Gesundheitsförderung (BGM)
+-   **HR-Abteilungen** für Mitarbeiter-Wellness-Programme
+
+### Wettbewerbspositionierung
+
+Der Markt für digitale Gesundheitsanwendungen ist stark wachsend, aber auch zunehmend fragmentiert. Verschiedene Anbieter fokussieren auf Fitness-Apps, Meditations-Apps oder reine Coaching-Plattformen.
+
+**Alleinstellungsmerkmale von Serious Ben Entertainment:**
+
+1.  **Interdisziplinäre Expertise:** Kombination aus therapeutischem Fachwissen, Data Science (im Gesundheitswesen) und Coaching-Kompetenz
+2.  **Ganzheitlicher Ansatz:** Integration von Bewegung, Entspannung, Coaching und KI-Unterstützung in einer Plattform
+3.  **Evidenzbasiert:** Alle Angebote basieren auf wissenschaftlich fundierten Methoden
+4.  **Freemium-Strategie:** Kostenlose diagnostische Apps als niedrigschwelliger Einstieg
+5.  **Krankenkassen-Zertifizierung:** §20 SGB V Anerkennung ermöglicht Kostenerstattung für Kunden und erlaubt höhere Basispreise
+6.  **Persönliche Note:** Kombination aus automatisierten KI-Diensten und persönlichem Coaching (Blended Learning)
+
+**Wettbewerbsvergleich:**
+
+-   Reine Fitness-Apps (z.B. Freeletics): Fokus nur auf Training, kein Coaching
+-   Meditations-Apps (z.B. Headspace): Nur mentale Gesundheit, keine Bewegung
+-   Coaching-Plattformen: Meist hohe Kosten, keine Krankenkassen-Integration
+-   §20-Kursanbieter: Meist klassische Vor-Ort-Kurse, wenig digitale Innovation
+
+### Preisgestaltung
+
+Die Preisstruktur ist transparent und orientiert sich am SaaS-Modell mit verschiedenen Preisstufen:
+
+**§20 Präventions-Apps:**
+
+-   Preis: **150,00 Euro** pro Kurs (8-10 Wochen)
+-   Erstattung durch gesetzliche Krankenkassen: **75-150 Euro**
+-   Eigenanteil Kunde: **0-75 Euro**
+-   Angebote: BenBox RS (Rückenschule), Entspannungstechniken, Qi-Gong
+
+**Coaching-Dienste:**
+
+-   **KI-gestütztes Coaching:** Monatliches Abo 30,00 Euro
+-   **Coaching:** 125,00 Euro pro Sitzung (60 Min.)
+-   **Coaching-Paket:** 650,00 Euro (6 Sitzungen)
+
+**Kostenlose Angebote (Lead-Generierung):**
+
+-   Persönlichkeitsfragebögen
+-   Mini-Selbstreflexions-Spiele
+-   Gesundheits-Check-Apps
+
+Die Preisgestaltung berücksichtigt:
+
+-   Marktübliche Sätze für digitale Gesundheitsangebote
+-   Erstattungsfähigkeit durch Krankenkassen
+-   Niedrige Einstiegshürden durch kostenlose Diagnostik-Tools
+-   Wertwahrnehmung durch evidenzbasierte Qualität
+
+### Marketing und Vertrieb
+
+**Online-Marketing:**
+
+-   **Website:** [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) als zentrale SaaS-Plattform
+-   **Content-Marketing:** Blog-Artikel zu Gesundheitsthemen, SEO-Optimierung
+-   **Social Media:** LinkedIn (B2B), Instagram (B2C)
+-   **E-Mail-Marketing:** Newsletter mit Gesundheitstipps
+
+**Kooperationen und Partnerschaften:**
+
+-   **Krankenkassen-Partnerschaften für §20-Kurse:** Die Akquise von Krankenkassen als Partner ist zentral für den Marktzugang, da diese einen enormen Multiplikatoreffekt bieten. Die Ansprache erfolgt mehrstufig:
+    1.  *Zertifizierung durch die ZPP:* Zunächst wird die BenBox RS (Rückenschule) bei der Zentralen Prüfstelle für Prävention (ZPP) als IKT-basiertes Präventionsangebot zertifiziert. Dies ist Voraussetzung für die Erstattungsfähigkeit.
+    2.  *Direktansprache der Präventionsabteilungen:* Nach erfolgreicher Zertifizierung werden die Präventionsabteilungen ausgewählter Krankenkassen (z.B. AOK, TK, Barmer) direkt kontaktiert – per E-Mail und telefonisch mit konkretem Angebot und Zertifizierungsnachweis.
+    3.  *Kooperationsmodelle:*
+        -   **Listung im Kursverzeichnis:** Die Krankenkassen listen zertifizierte Kurse in ihren Online-Verzeichnissen; Versicherte können diese direkt buchen und die Erstattung beantragen.
+        -   **Rahmenverträge:** Langfristige Vereinbarungen mit einzelnen Kassen, die eine bevorzugte Platzierung, gemeinsame Marketingaktionen oder exklusive Angebote für deren Versicherte ermöglichen.
+        -   **White-Label-Lösungen:** Individuelle Anpassung der Apps (Branding, Inhalte) für Krankenkassen, die eigene digitale Präventionsangebote unter ihrem Namen anbieten möchten.
+    4.  *Netzwerkpflege:* Teilnahme an Branchenveranstaltungen (z.B. DMEA, BGM-Kongresse) zur Kontaktanbahnung und Präsentation der Produkte.
+-   **BGM-Anbieter und Unternehmenskooperationen:** Unternehmen im Bereich Betriebliches Gesundheitsmanagement (BGM) werden als Multiplikatoren angesprochen. Kooperationsformen umfassen die Integration der SaaS-Angebote in bestehende BGM-Programme, gemeinsame Angebotsgestaltung für Firmenkunden sowie Schulungen für HR-Abteilungen.
+-   **Gesundheitsportale und Verzeichnisse:** Listung in relevanten Online-Verzeichnissen (z.B. Präventionskurse.de, Krankenkassen-Kurssuchen) sowie Kooperationen mit Gesundheitsportalen zur Content-Verbreitung und Lead-Generierung.
+
+**Freemium-Strategie:**
+
+-   Kostenlose Apps als Einstieg und Vertrauensaufbau – Nutzer erleben den Mehrwert ohne finanzielle Hürde und entwickeln Vertrauen in die Plattform.
+-   Datengetriebene, personalisierte Empfehlungen für Premium-Angebote – basierend auf den Ergebnissen der kostenlosen Diagnose-Tools werden passgenaue kostenpflichtige Kurse oder Coaching-Dienste vorgeschlagen.
+-   Evidenzbasierte Auswertungen zeigen konkreten Mehrwert – wissenschaftlich fundierte Ergebnisberichte motivieren zur Buchung weiterführender Angebote.
+
+**Vertriebskanäle:**
+
+-   Direktvertrieb über eigene Website – Hauptkanal für alle Produkte mit integriertem Buchungs- und Bezahlsystem.
+-   Krankenkassen-Verzeichnisse für §20-Kurse – zentrale Sichtbarkeit bei Versicherten, die aktiv nach erstattungsfähigen Präventionsangeboten suchen.
+-   App-Stores (geplant für mobile Apps) – Erweiterung der Reichweite durch Präsenz in iOS App Store und Google Play ab 2027.
+-   B2B-Vertrieb an Unternehmen – direkte Ansprache von HR- und BGM-Verantwortlichen für Firmenlizenzen und Mitarbeiterangebote.
+
+### Angebotsübersicht
+
+```{mermaid}
+%%| fig-cap: "Serious Ben Entertainment Angebotsspektrum"
+%%| fig-width: 6
+%%| fig-height: 3.5
+graph LR
+    A[Serious Ben Entertainment<br/>SaaS-Plattform] --> B[§20 Präventions-Apps<br/>150€]
+    A --> C[Coaching]
+    A --> D[Kostenlose Tools]
+    
+    B --> B1[Rückenschule]
+    B --> B2[Entspannungs-<br/>techniken]
+    B --> B3[Qi-Gong]
+    
+    C --> C1[Coaching<br/>125€/Sitzung]
+    C --> C2[KI-Coaching<br/>30,00€/Monat]
+    
+    D --> D1[Fragebögen]
+    D --> D2[Mini-Spiele]
+```
+
+## Zukunftsaussichten, Chancen und Risiken {#sec-zukunftsaussichten}
+
+### Markteintrittsstrategie
+
+Der Produktiv-Start der SaaS-Plattform [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org) ist für **Anfang 2026** geplant - sie ist schon öffentlich erreichbar in der Version 1.0.0 (Beta). Die Strategie folgt einem mehrstufigen Ansatz:
+
+**Phase 1 (Q3 2026): Soft Launch**
+
+-   Veröffentlichung der Website mit kostenlosen Diagnose-Apps
+-   Start der ersten §20-App (BenBox RS Rückenschule)
+-   Aufbau der ersten Nutzerbasis durch Freemium-Strategie
+
+**Phase 2 (Q4 2026 -Q1 2027): Produkterweiterung**
+
+-   Launch weiterer §20-Apps (Entspannungstechniken, Qi-Gong)
+-   Integration des KI-gestützten Coaching-Dienstes
+-   Beginn der Krankenkassen-Kooperationen
+
+**Phase 3 (Q2 2027 ff.): Skalierung**
+
+-   Ausbau der B2B-Vertriebskanäle (BGM)
+-   Entwicklung mobiler Apps für iOS/Android
+-   Internationale Expansion (englischsprachige Versionen)
+
+### Alleinstellungsmerkmale und Erfolgsfaktoren
+
+**Technologische Stärken:**
+
+-   Cloud-basierte, skalierbare Infrastruktur (Snowflake)
+-   KI-gestützte Personalisierung und Coaching
+-   Moderne Web-Technologien (Angular) für optimale Nutzererfahrung
+
+**Fachliche Stärken:**
+
+-   Einzigartige Kombination aus Gesundheitsexpertise und Data Science
+-   §20 SGB V Zertifizierung ermöglicht Krankenkassen-Erstattung
+-   Evidenzbasierte Methoden mit wissenschaftlichem Hintergrund
+
+**Geschäftsmodell:**
+
+-   Wiederkehrende Einnahmen durch SaaS-Abos
+-   Niedrige Kundenakquisitionskosten durch Freemium-Strategie
+-   Skalierbarkeit ohne proportionalen Kostenaufwand
+
+### Chancen
+
+1.  **Wachsender Markt:** Digitale Gesundheit boomt, verstärkt durch demografischen Wandel
+2.  **Krankenkassen-Integration:** §20-Zertifizierung schafft Vertrauen und reduziert Preisbarriere
+3.  **KI-Trends:** Wachsendes Interesse an KI-gestützten Lösungen
+4.  **BGM-Potenzial:** Unternehmen investieren verstärkt in Mitarbeitergesundheit
+5.  **Netzwerk:** Bestehende Kontakte aus bisheriger Tätigkeit im Gesundheitswesen
+6.  **Lehrtätigkeit:** Dozententätigkeit an der Hochschule Fresenius stärkt Reputation und bietet Synergie-Effekte
+
+### Risiken und Absicherung
+
+**Geschäftliche Risiken:**
+
+-   **Kundenakquise:** Langsamer Aufbau der Nutzerbasis → Absicherung durch Freemium-Modell und gezieltes Marketing
+-   **Wettbewerb:** Neue Anbieter → Kontinuierliche Innovation und Qualitätssicherung
+-   **Technische Komplexität:** Entwicklungsaufwände → Agile Entwicklung, MVP-Ansatz
+-   **Regulierung:** Änderungen bei §20 SGB V → Diversifikation der Einnahmequellen
+
+**Finanzielle Absicherung:**
+
+-   **Nebentätigkeit als Dozent:** Stabile Grundeinkünfte parallel zur Gründung
+-   **Niedriger Kapitalbedarf:** Digitales Geschäftsmodell ohne hohe Investitionskosten
+-   **Flexibilität:** Bei Bedarf Rückkehr in Angestelltenverhältnis (Physiotherapie, IT-Consulting) möglich
+-   **Persönliche Situation:** Ledig, keine Unterhaltsverpflichtungen, bescheidener Lebensstil
+
+**Operative Risiken:**
+
+-   **Datenschutz:** Gesundheitsdaten → Strikte DSGVO-Konformität, sichere Cloud-Infrastruktur
+-   **Qualitätssicherung:** Therapeutische Qualität → Regelmäßige Evaluationen, Nutzerfeedback
+-   **Skalierung:** Wachstumsmanagement → Cloud-Infrastruktur ermöglicht automatische Skalierung
+
+### Persönliche Voraussetzungen
+
+Meine persönliche Situation begünstigt das Gründungsvorhaben:
+
+-   **Finanzielle Flexibilität:** Durch bescheidenen Lebensstil und fehlende finanzielle Verpflichtungen gut gerüstet für Anlaufphase (2026 bis 2027)
+-   **Berufserfahrung:** Vorherige Gründungs- und Leitungserfahrung (therapie centrum Rosenheim)
+-   **Resilienz:** Erfahrung mit finanziell herausfordernden Phasen während Fort-, Ausbildungen und Studium
+-   **Netzwerk:** Langjährige deutschlandweite Kontakte in Gesundheitswesen und Gesundheits-IT-Branche
+-   **Kontinuierliche Weiterbildung:** Commitment zu lebenslangem Lernen und Anpassungsfähigkeit
+
+# Wirtschaftlichkeitsberechnungen {#sec-wirtschaftlichkeit}
+
+## Berechnung der notwendigen Privatentnahmen {#sec-privatentnahmen}
+
+### Lebenshaltungskosten (monatlich)
+
+| Position                                              | Betrag (€)   |
+|-------------------------------------------------------|--------------|
+| Wohnung (inkl. Heizung und sämtlicher Nebenkosten)    | 670,00       |
+| Nahrungsmittel, Genussmittel und Getränke             | 250,00       |
+| Bekleidung und Schuhe                                 | 50,00        |
+| Einrichtungsgegenstände                               | 20,00        |
+| Gesundheit und Pflege                                 | 15,00        |
+| Verkehr (öffentliche Verkehrsmittel + Rennradzubehör) | 65,00        |
+| Kommunikation, Freizeit und Kultur                    | 40,00        |
+| Bildung                                               | 50,00        |
+| Sonstiges                                             | 20,00        |
+| **Zwischensumme Lebenshaltung monatlich**             | **1.180,00** |
+
+### Versicherungs- und Vorsorgebeiträge
+
+| Position                                              | Betrag (€) |
+|-------------------------------------------------------|------------|
+| Gesetzl. bzw. priv. Kranken- und Pflegeversicherung   | 363,00     |
+| Gesetzl. bzw. priv. Rentenversicherung/Altersvorsorge | 00,00      |
+| Sonst. Versicherungen                                 | 11,00      |
+| **Gesamtsumme monatlich**                             | **374,00** |
+
+## Betriebliche Berechnungen {#sec-betriebliche-berechnungen}
+
+### Kapitalbedarfsplan in der Anlaufphase (Annahme: 3 Monate)
+
+#### Vor der Gründung
+
+| Position                                                 | Betrag (€) |
+|----------------------------------------------------------|------------|
+| Existenzgründungsberatung                                | 200,00     |
+| Eintragungen/Anmeldungen/Genehmigungen (Gewerbeamt, IHK) | 100,00     |
+| Rechtsberatung (Datenschutz, AGB)                        | 300,00     |
+| Patent-, Lizenz- und Franchisegebühren                   | 0,00       |
+| **Summe Gründungskosten einmalig**                       | **600,00** |
+
+#### Laufende Geschäftskosten (pro Monat)
+
+| Position                                        | Betrag (€)   |
+|-------------------------------------------------|--------------|
+| Fortbildung / Zertifizierungen                  | 50,00        |
+| Cloud-Hosting (STRATO V-Server, Snowflake)      | 50,00        |
+| Domain & Website Hosting                        | 15,00        |
+| Marketing und Werbung (Online-Ads, SEO)         | 300,00       |
+| Büromaterial inkl. Porto                        | 20,00        |
+| Betriebliche Versicherungen (Berufshaftpflicht) | 40,00        |
+| Beiträge und Gebühren                           | 50,00        |
+| Telekommunikation (Internet, Telefon)           | 30,00        |
+| Steuerberater/Buchführung                       | 150,00       |
+| Sonstiges                                       | 50,00        |
+| **Summe laufende Betriebsmittel (monatlich)**   | **755**      |
+| **Summe Betriebsmittel (3 Monate)**             | **2.265,00** |
+
+**Gesamter Kapitalbedarf (Anlaufphase 3 Monate):** 7.500 €
+
+## Kapitalbedarf und Finanzierung {#sec-kapitalbedarf}
+
+### Finanzierungsplan
+
+| Position                                 | Betrag (€)     |
+|------------------------------------------|----------------|
+| **Eigenkapital**                         |                |
+| Bankguthaben                             | 17.500,00      |
+| Privatdarlehen                           | 0,00           |
+| Sacheinlagen (vorhandene IT-Ausstattung) | 5.000,00       |
+| **Summe Eigenmittel**                    | **22.500,00**  |
+| **Fremdkapital**                         |                |
+| Gründungszuschuss (6 Monate à 2.000 €)   | 12.000,00      |
+| Langfristige Kredite                     | 0,00           |
+| Kurzfristige Kredite                     | 0,00           |
+| **Summe Fremdmittel / Förderung**        | **12.000,00**  |
+| **Finanzierungsmittel Gesamt**           | **34.500,00**  |
+| abzügl. Gesamtkapitalbedarf (3 Monate)   | -7.500,00      |
+| **Über- bzw. Unterdeckung**              | **+27.000,00** |
+
+**Erläuterungen:**
+
+-   Eigenkapital umfasst vorhandene Geldmittel und IT-Ausstattung (Laptop, Software)
+-   Gründungszuschuss: 6 Monate à 2.000 € = 12.000 € (Hauptförderung)
+-   Die Überdeckung dient als Liquiditätsreserve für die weitere Entwicklung
+
+## Umsatz-, Kosten- und Gewinnvorschau {#sec-umsatz-kosten-gewinn}
+
+### Umsatzplanung
+
+Die Umsatzprognose basiert auf realistischen Annahmen für ein digitales SaaS-Geschäftsmodell in der Aufbauphase:
+
+**Annahmen Jahr 1 (2026, 6 Monate):**
+
+-   §20-Apps: 15 Kurse à 150 € = 2.250 €
+-   Coaching: 7,2 Sitzungen à 125 € = 900 €
+-   KI-Coaching Abos: 24 Abos à 30 € × Ø 1 Monat = 718 €
+-   **Gesamt:** 3.868 €
+
+**Annahmen Jahr 2 (2027):**
+
+-   §20-Apps: 60 Kurse à 150 € = 9.000 €
+-   Coaching: 36 Sitzungen à 120 € = 4.320 €
+-   KI-Coaching Abos: 30 Abos à 30 € × 12 Monate = 10.764 €
+-   BGM-Kooperation: 2 Unternehmen à 2.000 € = 4.000 €
+-   **Gesamt:** 28.084 €
+
+**Annahmen Jahr 3 (2028):**
+
+-   §20-Apps: 120 Kurse à 150 € = 18.000 €
+-   Coaching: 60 Sitzungen à 120 € = 7.200 €
+-   KI-Coaching Abos: 80 Abos à 30 € × 12 Monate = 28.704 €
+-   BGM-Kooperationen: 5 Unternehmen à 2.500 € = 12.500 €
+-   **Gesamt:** 66.404 €
+
+### Grafik Unternehmensentwicklung (Euro)
+
+| Jahr | Umsatzerlöse (€) | Betriebskosten (€) | Jahresüberschuss (€) |
+|------|------------------|--------------------|----------------------|
+| 2026 | 3.868            | 4.530              | -662                 |
+| 2027 | 28.084           | 9.060              | 19.024               |
+| 2028 | 66.404           | 9.060              | 57.344               |
+
+```{r}
+#| echo: false
+#| eval: true
+#| label: fig-unternehmensentwicklung
+#| fig-cap: "Umsatz- und Gewinnentwicklung 2026-2028"
+library(tidyverse)
+
+# Creating data
+jahre <- c("2026\n(6 Mon.)", "2027", "2028")
+umsatz <- c(3868, 28084, 66404)
+kosten <- c(4530, 9060, 9060)
+gewinn <- c(-662, 19024, 57344)
+
+df <- tibble(
+  Jahr = factor(jahre, levels = jahre),
+  Umsatzerlöse = umsatz,
+  Betriebskosten = kosten,
+  Jahresüberschuss = gewinn
+)
+
+# Creating plot
+df_long <- df |>
+  pivot_longer(cols = -Jahr, names_to = "Kategorie", values_to = "Betrag")
+
+ggplot(df_long, aes(x = Jahr, y = Betrag, fill = Kategorie)) +
+  geom_col(position = "dodge") +
+  scale_fill_manual(values = c("Umsatzerlöse" = "#2E7D32",
+                                "Betriebskosten" = "#C62828",
+                                "Jahresüberschuss" = "#1976D2")) +
+  labs(title = "Umsatz- und Gewinnentwicklung 2026-2028",
+       x = "Jahr",
+       y = "Betrag (€)",
+       fill = "") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+**Erläuterungen:**
+
+-   Jahr 1 (6 Monate): Aufbauphase mit geringen Umsätzen und geringfügig negativem betrieblichem Ergebnis (-662 €), jedoch positive Gesamtrentabilität durch Gründerzuschuss und Nebeneinkünfte
+-   Jahr 2: Starkes Umsatzwachstum und deutlich positiver Jahresüberschuss
+-   Jahr 3: Weiteres deutliches Umsatzwachstum durch etablierte Produktpalette und Kundenbindung
+
+## Liquiditätsvorschau {#sec-liquiditaetsvorschau}
+
+### Erträge und Ausgaben (hochgerechnet und geschätzt)
+
+| Position | 2026 (6 Mon.) (€) | Jahr 2027 (€) | Jahr 2028 (€) |
+|------------------|-------------------|------------------|------------------|
+| **Netto-Erträge** |  |  |  |
+| §20 Präventions-Apps | 2.250,00 | 9.000,00 | 18.000,00 |
+| Coaching | 900,00 | 4.320,00 | 7.200,00 |
+| KI-Coaching Abonnements | 718,00 | 10.764,00 | 28.704,00 |
+| BGM-Kooperationen | 0,00 | 4.000,00 | 12.500,00 |
+| **Summe Erträge = Roherträge I** | **3.868,00** | **28.084,00** | **66.404,00** |
+| abzüglich Betriebsmittel | 4.530,00 | 9.060,00 | 9.060,00 |
+| **Summe betriebliches Ergebnis = Roherträge II** | **-662,00** | **19.024,00** | **57.344,00** |
+| AfA (Abschreibungen) auf Investitionen | 400,00 | 400,00 | 400,00 |
+| **Summe Basis für Einkommensteuer** | **-1.062,00** | **18.624,00** | **56.944,00** |
+| Privatentnahmen/Lebenshaltungskosten | 9.324,00 | 18.648,00 | 18.648,00 |
+| **Summe Betriebl. Ergebnis abzügl. Privatentnahmen = Cashflow** | **-9.986,00** | **376,00** | **38.696,00** |
+| \+ Nebeneinkünfte (Dozententätigkeit) | 4.000,00 | 8.000,00 | 8.000,00 |
+| \+ Gründungszuschuss (6 Monate à 2.000 €) | 12.000,00 | 0,00 | 0,00 |
+| **Summe Gesamtrentabilität** | **6.014,00** | **8.376,00** | **46.696,00** |
+| **Kumulierter Cashflow** | **6.014,00** | **14.390,00** | **61.086,00** |
+
+**Erläuterungen:**
+
+**2026 (Gründungsjahr, 6 Monate):**
+
+-   Anlaufphase mit geringen Umsätzen (3.868 €)
+-   Betriebskosten: 6 Monate × 755 € = 4.530 €
+-   Betrieblicher Cashflow negativ (-662 €), aber durch Gründerzuschuss (12.000 €) und Nebeneinkünfte (4.000 €) positive Gesamtrentabilität von 6.014 €
+-   Privatentnahmen: 6 Monate × (1.180 € Lebenshaltung + 374 € Versicherungen) = 9.324 €
+-   Gründerzuschuss: 6 × 2.000 € = 12.000 €
+
+**2027 (Jahr 2):**
+
+-   Deutliches Umsatzwachstum auf 28.084 €
+-   Betriebskosten: 12 Monate × 755 € = 9.060 €
+-   Betrieblicher Jahresüberschuss: 19.024 €
+-   Privatentnahmen: 12 Monate × 1.554 € = 18.648 €
+-   Trotz positivem betrieblichem Ergebnis geringer Cashflow (376 €) nach Privatentnahmen
+-   Mit Nebeneinkünften (8.000 €) positive Gesamtrentabilität: 8.376 €
+
+**2028 (Jahr 3):**
+
+-   Starkes Umsatzwachstum auf 66.404 €
+-   Betriebskosten bleiben konstant: 9.060 € (Annahme: keine Skalierung der Fixkosten)
+-   Betrieblicher Jahresüberschuss: 57.344 €
+-   Positiver Cashflow von 38.696 € nach Privatentnahmen
+-   Gesamtrentabilität inkl. Nebeneinkünfte: 46.696 €
+-   Kumulierter Cashflow: 61.086 €
+
+**Absicherung Liquidität:**
+
+-   Gründerzuschuss sichert erste 6 Monate
+-   Nebeneinkünfte durch Hochschul-Dozententätigkeit in allen drei Jahren
+-   Eigenkapitalreserve von 22.500 € für Überbrückung verfügbar
+-   Niedriger Kapitalbedarf durch digitales Geschäftsmodell
+-   Positive Gesamtrentabilität in allen Perioden
+-   Bei Bedarf: Rückkehr in Anstellung (Physiotherapie/IT) jederzeit möglich
+
+# Werbemittel & Marktzugang {#sec-werbemittel}
+
+## SaaS-Plattform {#sec-saas-plattform}
+
+**Homepage:** [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org)
+
+Die zentrale Webplattform dient als Dreh- und Angelpunkt für alle Dienstleistungen:
+
+**Technische Umsetzung:**
+
+-   **Frontend:** Angular-basierte Single-Page-Application
+-   **Backend:** Cloud-native Architektur (Snowflake, Node.js)
+-   **KI-Integration:** Conversational AI, personalisierte Empfehlungen
+-   **Responsive Design:** Optimiert für Desktop, Tablet und Mobile
+
+**Funktionen:**
+
+-   Benutzerregistrierung und -verwaltung
+-   Zugang zu §20 Präventions-Apps
+-   KI-gestütztes Coaching-Dashboard
+-   Kostenlose Diagnose-Tools und Fragebögen
+-   Buchungssystem für Coaching
+-   Krankenkassen-Abrechnung und Zertifikatsverwaltung
+-   Blog mit Gesundheitstipps (Content Marketing)
+
+## Produktportfolio {#sec-produktportfolio}
+
+### §20 Präventions-Apps (je 150 €)
+
+**1. BenBox RS (Rückenschule) – Flagship-Produkt**
+
+-   Serious Game zur Rückengesundheit
+-   8-10 Wochen strukturiertes Programm
+-   Evidenzbasierte Übungen
+-   Gamification-Elemente
+-   Zertifiziert nach §20 SGB V
+
+**2. Entspannungstechniken**
+
+-   Progressive Muskelrelaxation
+-   Achtsamkeitsübungen
+-   Audiogestützte Sessions
+
+**3. Qi-Gong**
+
+-   Videobasierte Bewegungsanleitungen
+-   Schritt-für-Schritt-Tutorials
+-   Traditionelle chinesische Bewegungskunst
+
+### Coaching-Dienste
+
+**KI-gestütztes Coaching (30,00 €/Monat):**
+
+-   Conversational AI für tägliche Reflexion
+-   Personalisierte Entwicklungspläne
+-   Verhaltens-Tracking und Feedback
+-   Evidenzbasierte Empfehlungen
+
+**Coaching (125 €/Sitzung):**
+
+-   60-minütige Einzelsitzungen
+-   Video-Coaching über sichere Plattform
+-   Ganzheitlicher Ansatz (Körper, Geist, Verhalten)
+-   Fokus: Burnout-Prävention, Work-Life-Balance, Führungskompetenz
+
+### Kostenlose Lead-Generierung
+
+**Diagnose-Apps:** - Persönlichkeitsfragebögen (z.B. Burnout-Risiko) - Rücken-Check - Stress-Level-Assessment - Mini-Spiele zur Selbstreflexion
+
+Nach Auswertung: Personalisierte Empfehlungen für kostenpflichtige Angebote
+
+## Mobile App (geplant) {#sec-mobile-app}
+
+**App Name:** BenBox
+
+**Status:** Entwicklung für 2027 geplant
+
+**Funktionen:** - Alle Web-Funktionen als native App - Offline-Nutzung ausgewählter Inhalte - Push-Benachrichtigungen für Coaching - Integration mit Apple Health / Google Fit
+
+# Anhang {#sec-anhang}
+
+## Informationen zum Gründerzuschuss {#sec-gruenderzuschuss}
+
+Der Gründerzuschuss der Agentur für Arbeit ist eine zentrale Fördermaßnahme für die Existenzgründung. Die Beantragung erfolgt in zwei Phasen:
+
+**Phase 1 (Pflichtleistung bei Erfüllung der Voraussetzungen):**
+
+-   Dauer: 6 Monate
+-   Höhe: Höhe des zuletzt bezogenen Arbeitslosengeldes + 300 € Pauschale
+-   In meinem Fall: ca. 1700 € ALG I + 300 € = **2.000 € monatlich**
+-   Gesamt: **12.000 €** für 6 Monate
+
+**Phase 2 (Ermessensleistung):**
+
+-   Dauer: weitere 9 Monate
+-   Höhe: 300 € monatlich
+-   Gesamt: 2.700 € (falls bewilligt)
+
+**Voraussetzungen (erfüllt):**
+
+-   Bezug von Arbeitslosengeld I mit Restanspruch von mindestens 150 Tagen
+-   Tragfähiges Geschäftskonzept (vorliegender Businessplan)
+-   Persönliche und fachliche Eignung (nachgewiesen durch Qualifikationen)
+-   Stellungnahme einer fachkundigen Stelle (z.B. Cologne Business)
+
+**Bedeutung für die Gründung:**
+
+-   Sicherung der Lebenshaltungskosten in der Anlaufphase
+-   Ermöglicht Fokus auf Produktentwicklung und Marktaufbau
+-   Reduziert finanzielles Risiko erheblich
+-   Zusätzlich: Fortführung der Sozialversicherungen
+
+## Beantwortung der Cologne Business Checkliste {#sec-cologne-business}
+
+Die folgende Übersicht adressiert die zentralen Fragen der Cologne Business Checkliste zur Gründungsvorbereitung:
+
+**1. Persönliche und fachliche Voraussetzungen:**
+
+-   [x] Umfassende Qualifikation in Gesundheitswesen, IT und Coaching
+-   [x] Kaufmännische Kenntnisse durch B.Sc. Gesundheitsökonomie und Geschäftsleitererfahrung
+-   [x] Branchenerfahrung: 20+ Jahre im Gesundheitswesen, 5+ Jahre Gesundheits-IT/Data Science
+-   [x] Familienrückhalt vorhanden
+-   [x] Zeitliche Belastungen kalkuliert und akzeptiert
+
+**2. Gründungskonzept und Marktchancen:**
+
+-   [x] Klar definiertes Angebot: §20-Apps, Coaching, KI-Dienste
+-   [x] Marktbedarf: Wachsender Markt für digitale Gesundheit
+-   [x] Zielgruppen definiert: Privatpersonen, Krankenkassen, BGM
+-   [x] Marketing-Konzept: Freemium-Strategie, Online-Marketing
+
+**3. Wettbewerbssituation:**
+
+-   [x] Mitbewerber bekannt und analysiert
+-   [x] Preise marktgerecht kalkuliert
+-   [x] Alleinstellungsmerkmale klar definiert: Interdisziplinäre Expertise, KI-Integration
+-   [x] Vertriebsmethoden: SaaS-Plattform, direkt und über Krankenkassen
+
+**4. Standortwahl:**
+
+-   [x] Digitales Geschäftsmodell: Standortunabhängig
+-   [x] Home Office + flexibler Co-Working Space in Köln
+-   [x] Kundschaft bundesweit/international erreichbar
+-   [x] Kosten minimal: 100 € monatlich für Co-Working
+
+**5. Rechtsform:**
+
+-   Einzelunternehmen / Freiberufler (Coach, IT-Dienstleister)
+-   Gewerbeanmeldung für digitale Produkte
+-   Ggf. spätere Umwandlung in GmbH bei starkem Wachstum
+
+**6. Genehmigungen:**
+
+-   Gewerbeanmeldung erforderlich
+-   §20 SGB V Zertifizierung für Präventionskurse (Prozess bekannt)
+-   Datenschutz: DSGVO-Konformität als Gesundheitsdienstleister
+
+**7. Rentabilität:**
+
+-   [x] Detaillierte Rentabilitätsvorschau
+-   [x] Break-Even ab Jahr 3 geplant
+-   [x] Kosten vollständig kalkuliert (privat + betrieblich)
+
+**8. Finanzierung:**
+
+-   [x] Kapitalbedarf ermittelt: 7.500 €
+-   [x] Eigenkapital: 22.500 €
+-   [x] Gründerzuschuss beantragt: 12.000 €
+-   [x] Liquidität gesichert durch Nebeneinkünfte (Dozententätigkeit)
+
+**9. Versicherungen:**
+
+-   Berufshaftpflichtversicherung (Coach/IT-Berater): 40 € monatlich
+-   Private Krankenversicherung: 363 € monatlich
+-   Rentenversicherung: 00,00 € monatlich
+    -   Altersvorsorge durch meine private Immobilie in Malawi (Heimatland meiner Frau, mit niedrigen Lebenshaltungskosten)
 
 \clearpage
