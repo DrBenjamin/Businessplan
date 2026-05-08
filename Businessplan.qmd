@@ -448,27 +448,27 @@ My personal situation favors the founding venture:
 
 ### Cost of Living (monthly)
 
-| Item                                                  | Amount (€)   |
-|-------------------------------------------------------|--------------|
-| Apartment (incl. heating and all incidental costs)    | 670.00       |
-| Food, beverages, and stimulants                       | 250.00       |
-| Clothing and shoes                                    | 50.00        |
-| Furnishings                                           | 20.00        |
-| Health and personal care                              | 15.00        |
-| Transport (public transport + road bike accessories)  | 65.00        |
-| Communication, leisure, and culture                   | 40.00        |
-| Education                                             | 50.00        |
-| Other                                                 | 20.00        |
-| **Subtotal cost of living monthly**                   | **1,180.00** |
+| Item                                                  | Amount in Euro |
+|-------------------------------------------------------|----------------|
+| Apartment (incl. heating and all incidental costs)    | 670.00         |
+| Food, beverages, and stimulants                       | 250.00         |
+| Clothing and shoes                                    | 50.00          |
+| Furnishings                                           | 20.00          |
+| Health and personal care                              | 15.00          |
+| Transport (public transport + road bike accessories)  | 65.00          |
+| Communication, leisure, and culture                   | 40.00          |
+| Education                                             | 50.00          |
+| Other                                                 | 20.00          |
+| **Subtotal cost of living monthly**                   | **1,180.00**   |
 
 ### Insurance and Provident Contributions
 
-| Item                                                  | Amount (€) |
-|-------------------------------------------------------|------------|
-| Statutory or private health and long-term care insurance | 363.00  |
-| Statutory or private pension/retirement provision     | 00.00      |
-| Other insurance                                       | 11.00      |
-| **Total monthly**                                     | **374.00** |
+| Item                                                     | Amount in Euro |
+|----------------------------------------------------------|----------------|
+| Statutory or private health and long-term care insurance | 363.00         |
+| Statutory or private pension/retirement provision        | 00.00          |
+| Other insurance                                          | 11.00          |
+| **Total monthly**                                        | **374.00**     |
 
 ## Operational Calculations {#sec-betriebliche-berechnungen}
 
@@ -476,30 +476,30 @@ My personal situation favors the founding venture:
 
 #### Pre-founding
 
-| Item                                                       | Amount (€) |
-|------------------------------------------------------------|------------|
-| Start-up advisory                                          | 200.00     |
-| Registrations / notifications / permits (Trade Office, IHK) | 100.00    |
-| Legal advice (data protection, T&Cs)                       | 300.00     |
-| Patent, license, and franchise fees                        | 0.00       |
-| **Total one-time founding costs**                          | **600.00** |
+| Item                                                        | Amount in Euro |
+|-------------------------------------------------------------|----------------|
+| Start-up advisory                                           | 200.00         |
+| Registrations / notifications / permits (Trade Office, IHK) | 100.00         |
+| Legal advice (data protection, T&Cs)                        | 300.00         |
+| Patent, license, and franchise fees                         | 0.00           |
+| **Total one-time founding costs**                           | **600.00**     |
 
 #### Ongoing Business Costs (per month)
 
-| Item                                                | Amount (€)   |
-|-----------------------------------------------------|--------------|
-| Further training / certifications                   | 50.00        |
-| Cloud hosting (STRATO V-Server, Snowflake)          | 50.00        |
-| Domain & website hosting                            | 15.00        |
-| Marketing and advertising (online ads, SEO)         | 300.00       |
-| Office supplies incl. postage                       | 20.00        |
-| Business insurance (professional liability)         | 40.00        |
-| Contributions and fees                              | 50.00        |
-| Telecommunications (internet, telephone)            | 30.00        |
-| Tax advisor / bookkeeping                           | 150.00       |
-| Other                                               | 50.00        |
-| **Total ongoing operating expenses (monthly)**      | **755**      |
-| **Total operating expenses (3 months)**             | **2,265.00** |
+| Item                                                | Amount in Euro |
+|-----------------------------------------------------|----------------|
+| Further training / certifications                   | 50.00          |
+| Cloud hosting (STRATO V-Server, Snowflake)          | 50.00          |
+| Domain & website hosting                            | 15.00          |
+| Marketing and advertising (online ads, SEO)         | 300.00         |
+| Office supplies incl. postage                       | 20.00          |
+| Business insurance (professional liability)         | 40.00          |
+| Contributions and fees                              | 50.00          |
+| Telecommunications (internet, telephone)            | 30.00          |
+| Tax advisor / bookkeeping                           | 150.00         |
+| Other                                               | 50.00          |
+| **Total ongoing operating expenses (monthly)**      | **755.00**     |
+| **Total operating expenses (3 months)**             | **2,265.00**   |
 
 **Total capital requirement (start-up phase 3 months):** EUR 7,500
 
@@ -507,7 +507,7 @@ My personal situation favors the founding venture:
 
 ### Financing Plan
 
-| Item                                       | Amount (€)     |
+| Item                                       | Amount in Euro |
 |--------------------------------------------|----------------|
 | **Equity**                                 |                |
 | Bank balance                               | 17,500.00      |
@@ -597,7 +597,7 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
                                 "Annual Surplus" = "#1976D2")) +
   labs(title = "Revenue and Profit Development 2026-2028",
        x = "Year",
-       y = "Amount (€)",
+       y = "Amount in Euro",
        fill = "") +
   theme_minimal() +
   theme(legend.position = "bottom")
