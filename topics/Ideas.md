@@ -40,3 +40,4 @@
     - Good food
     - Tasty drinks
     - Affordable prices
+- When we are not in Monkey Bay someone should run the Bloody Monkey and do it for free as he earns the money with what comes in by the event space
