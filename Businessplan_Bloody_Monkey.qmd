@@ -1,6 +1,6 @@
 ---
 title: "Business Plan"
-subtitle: "Serious Ben Entertainment"
+subtitle: "Bloody Monkey"
 author:
   name: "Benjamin Gross & Phelire Chisi"
   email: ben@seriousbenentertainment.org
@@ -11,7 +11,7 @@ author:
 filters:
   - topics/adjustTime.lua
 abstract: |
-  This business plan covers the establishment of Serious Ben Entertainment, a company focused on providing innovative entertainment solutions. The plan outlines the company's mission, market analysis, product offerings, marketing strategy, financial projections, and operational plan. The goal is to create a sustainable business that delivers high-quality entertainment experiences to our target audience while achieving profitability and growth.
+  This business plan covers the establishment of Blood Monkey Event Space, an innovative venue for immersive experiences at the plot in Alcon Road, Monkey Bay, Malawi.
 format:
   html:
     embed-resources: true
@@ -62,22 +62,26 @@ execute:
 ::: callout-note
 ## Founding Proposal
 
-**Founding:** Serious Ben Entertainment is a new company focused on providing innovative health entertainment solutions. The company will be founded by Benjamin Gross and Phelire Chisi, who bring a unique combination of skills and experience in the entertainment and education industry. The company will be based in Lilongwe, Malawi, and will serve a global english speaking audience through digital platforms.
+**Founding:** Bloody Monkey Event Space is a new company focused on providing innovative event experiences. The company will be founded by Benjamin Gross and Phelire Chisi, who bring a unique combination of skills and experience in the event and entertainment industry. The company will be based in Monkey Bay, Malawi on Benjamin's plot.
 
-**Founders:** Benjamin Gross & Phelire Chisi New Area 43 Lilongwe
+**Founders:** Benjamin Gross & Phelire Chisi
+Alcon Road
+Monkey Bay
+Mangochi District
+Malawi
 :::
 
 # Brief Project Description {#sec-kurzbeschreibung}
 
-Serious Ben Entertainment is developing a web-based SaaS platform for digital health coaching: certified §20 prevention courses (e.g., back-school or relaxation techniques), (AI-supported) coaching, and free diagnostic tools for lead generation. The target audiences are private individuals, statutory health insurance funds, and companies (workplace health management).
+Bloody Monkey Event Space is developing a web-based SaaS platform for digital event management: certified §20 prevention courses (e.g., back-school or relaxation techniques), (AI-supported) coaching, and free diagnostic tools for lead generation. The target audiences are private individuals, statutory health insurance funds, and companies (workplace health management).
 
 ## Business Idea {#sec-geschaeftsidee}
 
-I am founding **Serious Ben Entertainment**, a digital company that develops and offers innovative SaaS solutions (Software as a Service) in the field of (health) coaching and prevention. The focus is on developing and providing web-based applications via the platform [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org), which support people with low-threshold access to health promotion and personal development — from preventive health courses through to AI-supported and classical coaching.
+We are founding **Bloody Monkey Event Space**, a digital company that develops and offers innovative SaaS solutions (Software as a Service) in the field of (health) coaching and prevention. The focus is on developing and providing web-based applications via the platform [**www.bloodymonkeyeventspace.org**](https://www.bloodymonkeyeventspace.org), which support people with low-threshold access to health promotion and personal development — from preventive health courses through to AI-supported and classical coaching.
 
 The business model is based on four pillars, with Pillar 4 serving to secure financial stability in the start-up phase:
 
-1.  **Certified §20 SGB V prevention courses as digital apps** (back-school, relaxation techniques, Qi-Gong) priced at 150 Dollars, of which statutory health insurance funds reimburse 75–150 Dollars.
+1.  **Certified §20 SGB V prevention courses as digital apps** (back-school, relaxation techniques, Qi-Gong) priced at 150 Euros, of which statutory health insurance funds reimburse 75–150 Euros.
 2.  **AI-supported and classical coaching** for holistic health promotion and personal development.
 3.  **Free diagnostic mini-apps** (questionnaires, personality games) as entry-level products that, through evidence-based evaluations, reveal development potential and advertise and broker paid coaching services.
 4.  **Lecturing at Hochschule Fresenius** to secure a stable income during the founding phase (Year 1 / 2).
@@ -99,7 +103,7 @@ The technical implementation of the services is delivered via:
 ::: callout-important
 ## Flagship Product
 
-The **flagship product** is the **BenBox RS (back-school)**, a certified §20 prevention program designed as a Serious Game for the prevention of back pain and musculoskeletal limitations. As a web-based SaaS application, it combines playful elements with evidence-based exercises (e.g., Brügger Therapy) and posture detection (a self-developed deep learning model — CNN), and is offered at a price of 150 Dollars, with health insurance funds reimbursing up to 150 Dollars. This and other prevention courses, such as relaxation techniques or Qi-Gong, are provided as digital apps via the platform. The Central Examination Office for Prevention (ZPP) certifies these services in accordance with §20 SGB V, e.g., in the category [Game-based learning/serious games/e-teaching](https://www.zentrale-pruefstelle-praevention.de/leistungen/praeventionsangebot-zertifizieren-lassen/ikt-angebote/zertifizierbare-ikt-formate/).
+The **flagship product** is the **BenBox RS (back-school)**, a certified §20 prevention program designed as a Serious Game for the prevention of back pain and musculoskeletal limitations. As a web-based SaaS application, it combines playful elements with evidence-based exercises (e.g., Brügger Therapy) and posture detection (a self-developed deep learning model — CNN), and is offered at a price of 150 Euros, with health insurance funds reimbursing up to 150 Euros. This and other prevention courses, such as relaxation techniques or Qi-Gong, are provided as digital apps via the platform. The Central Examination Office for Prevention (ZPP) certifies these services in accordance with §20 SGB V, e.g., in the category [Game-based learning/serious games/e-teaching](https://www.zentrale-pruefstelle-praevention.de/leistungen/praeventionsangebot-zertifizieren-lassen/ikt-angebote/zertifizierbare-ikt-formate/).
 :::
 
 ### Target Groups and Positioning
@@ -130,7 +134,7 @@ The founding of **Serious Ben Entertainment** is also based on my many years of 
 
 The market for digital health services offers significant growth potential:
 
--   **§20 SGB V Prevention:** Health insurance funds invest several hundred million Dollars annually in prevention courses. The shift to digital is being strongly promoted.
+-   **§20 SGB V Prevention:** Health insurance funds invest several hundred million euros annually in prevention courses. The shift to digital is being strongly promoted.
 -   **Workplace Health Promotion (WHM):** Companies are increasingly looking for scalable, digital solutions for employee health
 -   **Coaching market:** The market for (health) coaching is growing continuously; AI-supported approaches open up new possibilities
 -   **SaaS model for providers:** Recurring revenue through subscriptions and product sales of e-Health solutions developed for customers
@@ -340,7 +344,7 @@ The pricing takes into account:
 %%| fig-width: 6
 %%| fig-height: 3.5
 graph LR
-    A[Serious Ben Entertainment<br/>SaaS Platform] --> B[§20 Prevention Apps<br/>Dollar150]
+    A[Serious Ben Entertainment<br/>SaaS Platform] --> B[§20 Prevention Apps<br/>€150]
     A --> C[Coaching]
     A --> D[Free Tools]
 
@@ -348,8 +352,8 @@ graph LR
     B --> B2[Relaxation<br/>Techniques]
     B --> B3[Qi-Gong]
 
-    C --> C1[Coaching<br/>Dollar125/session]
-    C --> C2[AI Coaching<br/>Dollar30.00/month]
+    C --> C1[Coaching<br/>€125/session]
+    C --> C2[AI Coaching<br/>€30.00/month]
 
     D --> D1[Questionnaires]
     D --> D2[Mini-Games]
@@ -446,27 +450,27 @@ My personal situation favors the founding venture:
 
 ### Cost of Living (monthly)
 
-| Item                                                 | Amount in Dollar |
-|------------------------------------------------------|------------------|
-| Apartment (incl. heating and all incidental costs)   | 670.00           |
-| Food, beverages, and stimulants                      | 250.00           |
-| Clothing and shoes                                   | 50.00            |
-| Furnishings                                          | 20.00            |
-| Health and personal care                             | 15.00            |
-| Transport (public transport + road bike accessories) | 65.00            |
-| Communication, leisure, and culture                  | 40.00            |
-| Education                                            | 50.00            |
-| Other                                                | 20.00            |
-| **Subtotal cost of living monthly**                  | **1,180.00**     |
+| Item                                                  | Amount in Euro |
+|-------------------------------------------------------|----------------|
+| Apartment (incl. heating and all incidental costs)    | 670.00         |
+| Food, beverages, and stimulants                       | 250.00         |
+| Clothing and shoes                                    | 50.00          |
+| Furnishings                                           | 20.00          |
+| Health and personal care                              | 15.00          |
+| Transport (public transport + road bike accessories)  | 65.00          |
+| Communication, leisure, and culture                   | 40.00          |
+| Education                                             | 50.00          |
+| Other                                                 | 20.00          |
+| **Subtotal cost of living monthly**                   | **1,180.00**   |
 
 ### Insurance and Provident Contributions
 
-| Item                                                     | Amount in Dollar |
-|------------------------------------------------------|------------------|
-| Statutory or private health and long-term care insurance | 363.00           |
-| Statutory or private pension/retirement provision        | 00.00            |
-| Other insurance                                          | 11.00            |
-| **Total monthly**                                        | **374.00**       |
+| Item                                                     | Amount in Euro |
+|----------------------------------------------------------|----------------|
+| Statutory or private health and long-term care insurance | 363.00         |
+| Statutory or private pension/retirement provision        | 00.00          |
+| Other insurance                                          | 11.00          |
+| **Total monthly**                                        | **374.00**     |
 
 ## Operational Calculations {#sec-betriebliche-berechnungen}
 
@@ -474,30 +478,30 @@ My personal situation favors the founding venture:
 
 #### Pre-founding
 
-| Item | Amount in Dollar |
-|-------------------------------------------------------|-----------------|
-| Start-up advisory | 200.00 |
-| Registrations / notifications / permits (Trade Office, IHK) | 100.00 |
-| Legal advice (data protection, T&Cs) | 300.00 |
-| Patent, license, and franchise fees | 0.00 |
-| **Total one-time founding costs** | **600.00** |
+| Item                                                        | Amount in Euro |
+|-------------------------------------------------------------|----------------|
+| Start-up advisory                                           | 200.00         |
+| Registrations / notifications / permits (Trade Office, IHK) | 100.00         |
+| Legal advice (data protection, T&Cs)                        | 300.00         |
+| Patent, license, and franchise fees                         | 0.00           |
+| **Total one-time founding costs**                           | **600.00**     |
 
 #### Ongoing Business Costs (per month)
 
-| Item                                           | Amount in Dollar |
-|------------------------------------------------|------------------|
-| Further training / certifications              | 50.00            |
-| Cloud hosting (STRATO V-Server, Snowflake)     | 50.00            |
-| Domain & website hosting                       | 15.00            |
-| Marketing and advertising (online ads, SEO)    | 300.00           |
-| Office supplies incl. postage                  | 20.00            |
-| Business insurance (professional liability)    | 40.00            |
-| Contributions and fees                         | 50.00            |
-| Telecommunications (internet, telephone)       | 30.00            |
-| Tax advisor / bookkeeping                      | 150.00           |
-| Other                                          | 50.00            |
-| **Total ongoing operating expenses (monthly)** | **755.00**       |
-| **Total operating expenses (3 months)**        | **2,265.00**     |
+| Item                                                | Amount in Euro |
+|-----------------------------------------------------|----------------|
+| Further training / certifications                   | 50.00          |
+| Cloud hosting (STRATO V-Server, Snowflake)          | 50.00          |
+| Domain & website hosting                            | 15.00          |
+| Marketing and advertising (online ads, SEO)         | 300.00         |
+| Office supplies incl. postage                       | 20.00          |
+| Business insurance (professional liability)         | 40.00          |
+| Contributions and fees                              | 50.00          |
+| Telecommunications (internet, telephone)            | 30.00          |
+| Tax advisor / bookkeeping                           | 150.00         |
+| Other                                               | 50.00          |
+| **Total ongoing operating expenses (monthly)**      | **755.00**     |
+| **Total operating expenses (3 months)**             | **2,265.00**   |
 
 **Total capital requirement (start-up phase 3 months):** EUR 7,500
 
@@ -505,26 +509,26 @@ My personal situation favors the founding venture:
 
 ### Financing Plan
 
-| Item                                          | Amount in Dollar |
-|-----------------------------------------------|------------------|
-| **Equity**                                    |                  |
-| Bank balance                                  | 17,500.00        |
-| Private loans                                 | 0.00             |
-| Contributions in kind (existing IT equipment) | 5,000.00         |
-| **Total own funds**                           | **22,500.00**    |
-| **Outside capital**                           |                  |
-| Founding subsidy (6 months × Dollar2,000)          | 12,000.00        |
-| Long-term loans                               | 0.00             |
-| Short-term loans                              | 0.00             |
-| **Total outside capital / funding**           | **12,000.00**    |
-| **Total financing**                           | **34,500.00**    |
-| less total capital requirement (3 months)     | -7,500.00        |
-| **Surplus / shortfall**                       | **+27,000.00**   |
+| Item                                       | Amount in Euro |
+|--------------------------------------------|----------------|
+| **Equity**                                 |                |
+| Bank balance                               | 17,500.00      |
+| Private loans                              | 0.00           |
+| Contributions in kind (existing IT equipment) | 5,000.00    |
+| **Total own funds**                        | **22,500.00**  |
+| **Outside capital**                        |                |
+| Founding subsidy (6 months × €2,000)       | 12,000.00      |
+| Long-term loans                            | 0.00           |
+| Short-term loans                           | 0.00           |
+| **Total outside capital / funding**        | **12,000.00**  |
+| **Total financing**                        | **34,500.00**  |
+| less total capital requirement (3 months)  | -7,500.00      |
+| **Surplus / shortfall**                    | **+27,000.00** |
 
 **Notes:**
 
 -   Equity comprises existing cash and IT equipment (laptop, software)
--   Founding subsidy: 6 months × Dollar2,000 = Dollar12,000 (main funding)
+-   Founding subsidy: 6 months × €2,000 = €12,000 (main funding)
 -   The surplus serves as a liquidity reserve for further development
 
 ## Revenue, Cost, and Profit Forecast {#sec-umsatz-kosten-gewinn}
@@ -535,34 +539,34 @@ The revenue forecast is based on realistic assumptions for a digital SaaS busine
 
 **Assumptions Year 1 (2026, 6 months):**
 
--   §20 apps: 15 courses × Dollar150 = Dollar2,250
--   Coaching: 7.2 sessions × Dollar125 = Dollar900
--   AI Coaching subscriptions: 24 subs × Dollar30 × ø 1 month = Dollar718
--   **Total:** Dollar3,868
+-   §20 apps: 15 courses × €150 = €2,250
+-   Coaching: 7.2 sessions × €125 = €900
+-   AI Coaching subscriptions: 24 subs × €30 × ø 1 month = €718
+-   **Total:** €3,868
 
 **Assumptions Year 2 (2027):**
 
--   §20 apps: 60 courses × Dollar150 = Dollar9,000
--   Coaching: 36 sessions × Dollar120 = Dollar4,320
--   AI Coaching subscriptions: 30 subs × Dollar30 × 12 months = Dollar10,764
--   WHM cooperation: 2 companies × Dollar2,000 = Dollar4,000
--   **Total:** Dollar28,084
+-   §20 apps: 60 courses × €150 = €9,000
+-   Coaching: 36 sessions × €120 = €4,320
+-   AI Coaching subscriptions: 30 subs × €30 × 12 months = €10,764
+-   WHM cooperation: 2 companies × €2,000 = €4,000
+-   **Total:** €28,084
 
 **Assumptions Year 3 (2028):**
 
--   §20 apps: 120 courses × Dollar150 = Dollar18,000
--   Coaching: 60 sessions × Dollar120 = Dollar7,200
--   AI Coaching subscriptions: 80 subs × Dollar30 × 12 months = Dollar28,704
--   WHM cooperations: 5 companies × Dollar2,500 = Dollar12,500
--   **Total:** Dollar66,404
+-   §20 apps: 120 courses × €150 = €18,000
+-   Coaching: 60 sessions × €120 = €7,200
+-   AI Coaching subscriptions: 80 subs × €30 × 12 months = €28,704
+-   WHM cooperations: 5 companies × €2,500 = €12,500
+-   **Total:** €66,404
 
-### Chart: Company Development (Dollar)
+### Chart: Company Development (Euro)
 
-| Year | Revenue (Dollar) | Operating Costs (Dollar) | Annual Surplus (Dollar) |
-|------|-------------|---------------------|--------------------|
-| 2026 | 3,868       | 4,530               | -662               |
-| 2027 | 28,084      | 9,060               | 19,024             |
-| 2028 | 66,404      | 9,060               | 57,344             |
+| Year | Revenue (€)      | Operating Costs (€) | Annual Surplus (€)   |
+|------|------------------|---------------------|----------------------|
+| 2026 | 3,868            | 4,530               | -662                 |
+| 2027 | 28,084           | 9,060               | 19,024               |
+| 2028 | 66,404           | 9,060               | 57,344               |
 
 ```{r}
 #| echo: false
@@ -595,7 +599,7 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
                                 "Annual Surplus" = "#1976D2")) +
   labs(title = "Revenue and Profit Development 2026-2028",
        x = "Year",
-       y = "Amount in Dollar",
+       y = "Amount in Euro",
        fill = "") +
   theme_minimal() +
   theme(legend.position = "bottom")
@@ -603,7 +607,7 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 
 **Notes:**
 
--   Year 1 (6 months): Build-up phase with low revenues and a slightly negative operating result (-Dollar662), but positive overall profitability through the founding subsidy and side income
+-   Year 1 (6 months): Build-up phase with low revenues and a slightly negative operating result (-€662), but positive overall profitability through the founding subsidy and side income
 -   Year 2: Strong revenue growth and clearly positive annual surplus
 -   Year 3: Further significant revenue growth through an established product range and customer loyalty
 
@@ -611,7 +615,7 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 
 ### Income and Expenses (extrapolated and estimated)
 
-| Item | 2026 (6 mo.) (Dollar) | Year 2027 (Dollar) | Year 2028 (Dollar) |
+| Item | 2026 (6 mo.) (€) | Year 2027 (€)   | Year 2028 (€)   |
 |------------------|-------------------|------------------|------------------|
 | **Net income** |  |  |  |
 | §20 prevention apps | 2,250.00 | 9,000.00 | 18,000.00 |
@@ -626,7 +630,7 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 | Personal drawings / cost of living | 9,324.00 | 18,648.00 | 18,648.00 |
 | **Total operating result less personal drawings = Cash flow** | **-9,986.00** | **376.00** | **38,696.00** |
 | \+ Side income (lecturing) | 4,000.00 | 8,000.00 | 8,000.00 |
-| \+ Founding subsidy (6 months × Dollar2,000) | 12,000.00 | 0.00 | 0.00 |
+| \+ Founding subsidy (6 months × €2,000) | 12,000.00 | 0.00 | 0.00 |
 | **Total profitability** | **6,014.00** | **8,376.00** | **46,696.00** |
 | **Cumulative cash flow** | **6,014.00** | **14,390.00** | **61,086.00** |
 
@@ -634,35 +638,35 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 
 **2026 (founding year, 6 months):**
 
--   Start-up phase with low revenues (Dollar3,868)
--   Operating costs: 6 months × Dollar755 = Dollar4,530
--   Operating cash flow negative (-Dollar662), but through founding subsidy (Dollar12,000) and side income (Dollar4,000) positive overall profitability of Dollar6,014
--   Personal drawings: 6 months × (Dollar1,180 cost of living + Dollar374 insurance) = Dollar9,324
--   Founding subsidy: 6 × Dollar2,000 = Dollar12,000
+-   Start-up phase with low revenues (€3,868)
+-   Operating costs: 6 months × €755 = €4,530
+-   Operating cash flow negative (-€662), but through founding subsidy (€12,000) and side income (€4,000) positive overall profitability of €6,014
+-   Personal drawings: 6 months × (€1,180 cost of living + €374 insurance) = €9,324
+-   Founding subsidy: 6 × €2,000 = €12,000
 
 **2027 (Year 2):**
 
--   Significant revenue growth to Dollar28,084
--   Operating costs: 12 months × Dollar755 = Dollar9,060
--   Operating annual surplus: Dollar19,024
--   Personal drawings: 12 months × Dollar1,554 = Dollar18,648
--   Despite a positive operating result, low cash flow (Dollar376) after personal drawings
--   With side income (Dollar8,000), positive overall profitability: Dollar8,376
+-   Significant revenue growth to €28,084
+-   Operating costs: 12 months × €755 = €9,060
+-   Operating annual surplus: €19,024
+-   Personal drawings: 12 months × €1,554 = €18,648
+-   Despite a positive operating result, low cash flow (€376) after personal drawings
+-   With side income (€8,000), positive overall profitability: €8,376
 
 **2028 (Year 3):**
 
--   Strong revenue growth to Dollar66,404
--   Operating costs remain constant: Dollar9,060 (assumption: no scaling of fixed costs)
--   Operating annual surplus: Dollar57,344
--   Positive cash flow of Dollar38,696 after personal drawings
--   Overall profitability incl. side income: Dollar46,696
--   Cumulative cash flow: Dollar61,086
+-   Strong revenue growth to €66,404
+-   Operating costs remain constant: €9,060 (assumption: no scaling of fixed costs)
+-   Operating annual surplus: €57,344
+-   Positive cash flow of €38,696 after personal drawings
+-   Overall profitability incl. side income: €46,696
+-   Cumulative cash flow: €61,086
 
 **Liquidity Safeguarding:**
 
 -   Founding subsidy secures the first 6 months
 -   Side income from university lecturing in all three years
--   Equity reserve of Dollar22,500 available for bridging
+-   Equity reserve of €22,500 available for bridging
 -   Low capital requirement due to digital business model
 -   Positive overall profitability in all periods
 -   If needed: return to employment (physiotherapy/IT) possible at any time
@@ -694,7 +698,7 @@ The central web platform serves as the hub for all services:
 
 ## Product Portfolio {#sec-produktportfolio}
 
-### §20 Prevention Apps (150 Dollars each)
+### §20 Prevention Apps (€150 each)
 
 **1. BenBox RS (Back-School) – Flagship Product**
 
@@ -718,14 +722,14 @@ The central web platform serves as the hub for all services:
 
 ### Coaching Services
 
-**AI-supported Coaching (Dollar30.00/month):**
+**AI-supported Coaching (€30.00/month):**
 
 -   Conversational AI for daily reflection
 -   Personalized development plans
 -   Behavior tracking and feedback
 -   Evidence-based recommendations
 
-**Coaching (Dollar125/session):**
+**Coaching (€125/session):**
 
 -   60-minute individual sessions
 -   Video coaching via secure platform
@@ -755,15 +759,15 @@ The founding subsidy from the Federal Employment Agency is a central funding mea
 **Phase 1 (mandatory benefit if requirements are met):**
 
 -   Duration: 6 months
--   Amount: Most recently received unemployment benefit + Dollar300 lump sum
--   In my case: approx. Dollar1,700 ALG I + Dollar300 = **Dollar2,000 monthly**
--   Total: **Dollar12,000** for 6 months
+-   Amount: Most recently received unemployment benefit + €300 lump sum
+-   In my case: approx. €1,700 ALG I + €300 = **€2,000 monthly**
+-   Total: **€12,000** for 6 months
 
 **Phase 2 (discretionary benefit):**
 
 -   Duration: a further 9 months
--   Amount: Dollar300 monthly
--   Total: Dollar2,700 (if granted)
+-   Amount: €300 monthly
+-   Total: €2,700 (if granted)
 
 **Requirements (met):**
 
@@ -810,7 +814,7 @@ The following overview addresses the central questions of the Cologne Business c
 -   [x] Digital business model: location-independent
 -   [x] Home office + flexible co-working space in Cologne
 -   [x] Customer base reachable nationwide / internationally
--   [x] Costs minimal: Dollar100 monthly for co-working
+-   [x] Costs minimal: €100 monthly for co-working
 
 **5. Legal form:**
 
@@ -832,16 +836,16 @@ The following overview addresses the central questions of the Cologne Business c
 
 **8. Financing:**
 
--   [x] Capital requirement determined: Dollar7,500
--   [x] Equity: Dollar22,500
--   [x] Founding subsidy applied for: Dollar12,000
+-   [x] Capital requirement determined: €7,500
+-   [x] Equity: €22,500
+-   [x] Founding subsidy applied for: €12,000
 -   [x] Liquidity secured through side income (lecturing)
 
 **9. Insurance:**
 
--   Professional liability insurance (coach/IT consultant): Dollar40 monthly
--   Private health insurance: Dollar363 monthly
--   Pension insurance: Dollar00.00 monthly
+-   Professional liability insurance (coach/IT consultant): €40 monthly
+-   Private health insurance: €363 monthly
+-   Pension insurance: €00.00 monthly
     -   Retirement provision through my private property in Malawi (my wife's home country, with low cost of living)
 
 \clearpage

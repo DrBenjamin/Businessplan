@@ -1,0 +1,32 @@
+# Ideas for our life/business
+
+- Financial independence
+  - Benjamin's current financial literacy
+  - Phelire's current financial literacy
+- KV-model (how to use it in the game)
+- Lilongwe small business center as location
+- Serious Ben Entertainment as company uses Euro, **Dollar** or Kwacha as currency?
+  - **Dollar**
+    - against:
+      - no direct source of income in dollars
+    - pro:
+      - more stable currency than Kwacha
+      - easier to use for international transactions
+      - fully accepted in the gaming industry
+      - Exchange on the black market without any limitations
+  - Kwacha
+    - against:
+      - less stable currency than Dollar
+      - harder to use for international transactions
+      - less widely accepted in the gaming industry
+      - Exchange on the black market with limitations
+    - pro:
+      - None
+  - Euro
+    - against:
+      - only a small direct source of income in euros (ca. 200 euros per month)
+    - pro:
+      - more stable currency than Kwacha
+      - accepted to use for international transactions
+      - more widely accepted in the gaming industry than Kwacha
+      - Exchange on the black market without minor limitations
