@@ -62,8 +62,17 @@ _Add your build and test commands here_
 
 ## Architecture Overview
 
-_Add a brief overview of your project architecture_
+There are two businessplans, one for Serious Ben Entertainment (`Businessplan.qmd`)
+and one for on-site Therapy Center (`Businessplan_Therapy_Center.qmd`).
 
 ## Conventions & Patterns
 
-_Add your project-specific conventions here_
+All text is written in Quarto Markdown (`.qmd` files) for easy rendering and formatting. Use the following command to render:
+
+```bash
+quarto render <filename>.qmd
+```
+
+The source `.qmd` files are the primary working documents.
+
+The html version is deployed to GitHub Pages for easy sharing and presentation. Where as PDF (or Word) versions can be generated for formal distribution.
