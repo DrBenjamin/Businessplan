@@ -30,3 +30,10 @@
       - accepted to use for international transactions
       - more widely accepted in the gaming industry than Kwacha
       - Exchange on the black market without minor limitations
+
+## Ideas for Bloody Monkey
+
+- Good vibe
+  - Space holding!!!
+    - Good music
+    - Good food
