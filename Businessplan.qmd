@@ -11,7 +11,9 @@ author:
 filters:
   - topics/adjustTime.lua
 abstract: |
-  This business plan covers the establishment of Serious Ben Entertainment, a global SaaS company developing Serious Health Games and AI-supported coaching for an international English-speaking audience. The plan outlines the company's mission, global market opportunity, modular product offerings (such as the BenBen - Back School game), the creative-clinical-technical founding team, marketing strategy, financial projections, and operational plan.
+  This business plan covers the establishment of Serious Ben Entertainment as a multi-vertical creative studio that operates at the intersection of digital health, media, crafts, and adventure tourism for a global, English-speaking audience. The studio’s portfolio includes: (1) Serious Health Games (SaaS) with AI-supported coaching and assessment, (2) the Dating Show format "Love is Warm" and related YouTube media, (3) Kitenge Krafts — fabric-based handcrafted items inspired by Malawian design, (4) Malawi Wood Kraft — sustainably sourced wooden handcrafted items, (5) Hike-/Bike-/Rafting tours around the Monkey Bay plot featuring a real-world serious-game geocaching adventure titled "The Serious Curse of the Bloody Monkey", and (6) YouTube content documenting the Monkey Bay off-grid plot (current: wooden shed with compost toilet, shower and kitchen, summer hut, well, tents, dog house; planned: chicken house, second kitchen with bread oven) and everyday off-grid life.
+  
+  The plan outlines the studio’s mission, market opportunities across these lines, modular product and content roadmaps (e.g., the flagship BenBen - Back School game), the creative founding team, go-to-market and monetization strategies, and an operational plan spanning SaaS, content production, e-commerce for crafts, and experience-based tourism.
 format:
   html:
     embed-resources: true
@@ -62,33 +64,44 @@ execute:
 ::: callout-note
 ## Founding Proposal
 
-**Founding:** Serious Ben Entertainment is a new company focused on providing innovative digital health entertainment solutions to a global, English-speaking audience. The company is co-founded by Benjamin Gross (clinical, data-science and product expertise) and Phelire Chisi (Social Worker, Artist, Healer — the creative force behind the studio), who bring a unique combination of clinical, creative and technical skills to the development of evidence-based Serious Health Games. The company will be based in Lilongwe, Malawi, and will serve a worldwide audience through the digital platform [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org).
+**Founding:** Serious Ben Entertainment is a new multi-vertical studio serving a global, English-speaking audience with a portfolio spanning Serious Health Games (SaaS + AI), original media formats (the Dating Show "Love is Warm"), artisan crafts brands (Kitenge Krafts and Malawi Wood Kraft), adventure tourism and real-world serious games in Monkey Bay, and a YouTube channel showcasing the off-grid plot and creative studio life. Co-founded by Benjamin Gross (clinical, data-science and product expertise) and Phelire Chisi (Social Worker, Artist, Healer — the creative force behind the studio), the company blends clinical rigor, data/AI capability, cultural authorship and craft. Based in Lilongwe and Monkey Bay (Malawi), the studio serves worldwide audiences through the web platform [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org), global creator channels, and e-commerce/booking integrations.
 
 **Founders:** Benjamin Gross & Phelire Chisi New Area 43 Lilongwe
 :::
 
 # Brief Project Description {#sec-kurzbeschreibung}
 
-Serious Ben Entertainment is developing a web-based SaaS platform — [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) — that publishes a growing portfolio of **Serious Health Games** (self-contained, evidence-based game modules such as **BenBen - Back School**), AI-supported coaching, and free diagnostic mini-apps for lead generation. The platform targets a global English-speaking audience: health-conscious private individuals, employers running workplace health programs, NGOs, and clinical partners. Where favourable national reimbursement schemes exist, individual modules can be additionally certified for that domestic market — the German statutory health-insurance market (§20 SGB V primary-prevention courses) is the first concrete example of such a domestic adaptation and is treated throughout this plan as one go-to-market channel rather than the core business model.
+Serious Ben Entertainment operates a modular portfolio with a digital core and place-based extensions:
+
+-  A web-based SaaS platform — [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) — that publishes a growing portfolio of **Serious Health Games** (evidence-based modules such as **BenBen - Back School**), AI-supported coaching, and free diagnostic mini-apps for lead generation.
+-  An original media arm producing the **Dating Show "Love is Warm"** and **YouTube** content documenting the off-grid Monkey Bay plot, production builds, and studio life.
+-  Two artisan-craft brands: **Kitenge Krafts** (fabric-based handcrafted items; inspiration and moodboard: Pinterest — https://de.pinterest.com/tamarachisi/?invite_code=eec32672190e4c3f8c5b0eb17384bf8e&sender=666603319753565587) and **Malawi Wood Kraft** (sustainably sourced wooden handcrafted items).
+-  **Adventure tourism at Monkey Bay**: guided **Hike-/Bike-/Rafting tours** around the plot with **"The Serious Curse of the Bloody Monkey"** geocaching multi-cache as a real-world serious game/adventure.
+
+The primary audience remains global and English-speaking. For Serious Health Games, domestic reimbursement schemes can be pursued per module and market. The German statutory health-insurance market (§20 SGB V primary-prevention courses) remains the first example and is treated as one go-to-market channel among several, not the foundation of the business.
 
 ## Business Idea {#sec-geschaeftsidee}
 
-We are founding **Serious Ben Entertainment** as a digital studio that develops and publishes innovative SaaS solutions (Software as a Service) at the intersection of Serious Games, (health) coaching and primary prevention. The focus is on a globally accessible platform — [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org) — that gives people worldwide low-threshold access to playful, evidence-based health promotion and personal development.
+We are founding **Serious Ben Entertainment** as a creative studio with multiple complementary lines of business that reinforce one another across digital products, media, craft, and experiences. The globally accessible platform — [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org) — acts as the digital hub that connects the following pillars:
 
-The business model rests on four global pillars, with Pillar 4 securing financial stability in the start-up phase:
+1.  **Serious Health Games (SaaS + AI)** — self-contained modules that combine gamified mechanics with evidence-based health content. Flagship: **BenBen - Back School** (musculoskeletal prevention with posture detection via a self-developed CNN). Roadmap: relaxation training and Qi-Gong. Select modules can be certified for domestic reimbursement schemes (first target: **§20 SGB V** in Germany; typical price Dollar 150, reimbursement 75–150 Dollar).
+2.  **Media & YouTube** — the original **Dating Show "Love is Warm"** plus ongoing **YouTube** content documenting the off-grid Monkey Bay plot, builds, and studio life (revenue via ads, sponsorships, brand integrations, and merch).
+3.  **Artisan Crafts** — two product brands: **Kitenge Krafts** (fabric-based items; see Pinterest inspiration link above) and **Malawi Wood Kraft** (sustainably sourced wooden handcrafted items). Sales via own shop and marketplaces; content-driven commerce via YouTube/Pinterest/Instagram Shops.
+4.  **Adventure Tourism & Real-World Serious Games** — guided **Hike-/Bike-/Rafting tours** around the Monkey Bay plot including a geocaching multi-cache, **"The Serious Curse of the Bloody Monkey"**, as a real-life serious game/adventure experience.
+5.  **AI-supported and classical coaching** — holistic personal development and health coaching, delivered globally via video/chat.
+6.  **Free diagnostic mini-apps** — questionnaires, personality games, posture/back checks as entry points that drive trust and conversion into paid offerings across the portfolio.
+7.  **Lecturing at Hochschule Fresenius** — stabilizing side income during the start-up phase (Year 1/2).
 
-1.  **Serious Health Games** — self-contained game modules published on the platform, each combining gamified mechanics with evidence-based health content. The flagship module is **BenBen - Back School** (musculoskeletal prevention with posture detection); further modules in the pipeline include relaxation training and Qi-Gong. Individual modules can be **additionally certified for domestic reimbursement schemes**; the first such adaptation is certification under **§20 SGB V** in Germany (priced at 150 Dollars per course, with German statutory health-insurance funds reimbursing 75–150 Dollars). Comparable schemes in other countries (e.g., NHS digital-health pathways in the UK, employer-sponsored wellness programs in the US, MASM/CHAM in Malawi) are evaluated module-by-module.
-2.  **AI-supported and classical coaching** for holistic health promotion and personal development, delivered globally via video and chat.
-3.  **Free diagnostic mini-apps** (questionnaires, personality games, posture/back checks) as entry-level products that, through evidence-based evaluations, reveal development potential and advertise and broker paid coaching services and game modules.
-4.  **Lecturing at Hochschule Fresenius** (Benjamin Gross) to secure a stable income during the founding phase (Year 1 / 2).
+The technical implementation across lines is delivered via:
 
-The technical implementation of the services is delivered via:
-
--   An **Angular-based web application** ([www.seriousbenentertainment.org](https://www.seriousbenentertainment.org)) as the central SaaS platform
-    -   **Serious Games** for playful health promotion.
-    -   **Conversational AI and AI-supported analyses** for personalized recommendations.
--   **Scalable cloud infrastructure** (e.g., Snowflake Cloud) for flexible service delivery without (high) fixed costs.
--   **In-house development** supported by my own developer skills, GitHub Copilot, and other development tools to avoid high costs, as well as best practices that I learned during my time at adesso SE.
+-   An **Angular-based web application** ([www.seriousbenentertainment.org](https://www.seriousbenentertainment.org)) as the central SaaS and content hub
+  -   **Serious Games** for playful health promotion
+  -   **Conversational AI and AI-supported analyses** for personalization
+  -   **Shop/checkout integrations** for Kitenge Krafts and Malawi Wood Kraft
+  -   **Booking integrations** for Monkey Bay tours and experiences
+-   **Scalable cloud infrastructure** (e.g., Snowflake Cloud) for flexible service delivery without high fixed costs
+-   **Media production stack** for "Love is Warm" and YouTube: cameras, sound, lighting, editing and scheduling workflows
+-   **In-house development** supported by my own developer skills, GitHub Copilot, and other development tools to avoid high costs, as well as best practices learned at adesso SE
 
 ![Website – Health Courses](./topics/Webpage.png)
 
@@ -106,15 +119,18 @@ For the **German domestic market**, BenBen - Back School is being prepared as th
 
 ### Target Groups and Positioning
 
-The SaaS platform is primarily aimed at a **global English-speaking audience**:
+The platform and studio offerings target a **global English-speaking audience** and select on-the-ground customers in Malawi:
 
--   **Health-conscious private individuals worldwide** as direct end customers of the platform and its game modules
--   **International employers** running workplace health and wellness programs for their employees
--   **Coaching clients** seeking personal and AI-supported development support
--   **Clinical and NGO partners** (e.g., physiotherapy practices, community health programs) integrating our modules into their care pathways
--   **Statutory health insurance funds and equivalent domestic payers** — addressed selectively per country where reimbursement schemes are favourable. Germany's §20 SGB V framework is the first such channel and serves as a template for evaluating future domestic adaptations (see *1.4.4 Marketing and Sales – Cooperations and Partnerships*).
+-   **Health-conscious private individuals worldwide** — direct end customers of Serious Health Games
+-   **International employers** — workplace health and wellness programs (B2B)
+-   **Coaching clients** — personal and AI-supported development support
+-   **Viewers and fans** — YouTube/Dating Show audiences; sponsors/brand partners
+-   **Craft customers** — global buyers of Kitenge Krafts and Malawi Wood Kraft via own shop and marketplaces
+-   **Tourists and travelers** — visitors to Monkey Bay seeking guided outdoor experiences
+-   **Clinical and NGO partners** — integrating modules into care pathways
+-   **Domestic payers** — selectively, statutory health insurance and equivalents (e.g., §20 SGB V in Germany) for module-specific reimbursement
 
-We position the company as a **studio for evidence-based Serious Health Games and digital coaching**, anchored by a dual founding team:
+We position the company as a **studio for evidence-based Serious Health Games and digital coaching — and a creative house for media, crafts, and real-world serious-game adventures**. The dual founding team anchors this breadth:
 
 -   **Benjamin Gross** combines clinical practice (physiotherapist, Alexander Technique teacher, burnout coach), health-economics training (B.Sc., 2017–2019), and Data Science (M.Sc., 2023–2026, University of Edinburgh). He has built e-Health products since 2019 and brings the technical, clinical and product perspective.
 -   **Phelire Chisi** is the **creative force** of the studio: a qualified **Social Worker (B.Sc.), Artist and Healer** based in Lilongwe. She leads the creative direction of the games, contributes psychosocial-counselling expertise (family work, trauma-informed creative practice, therapeutic photography and craft-based methods) and ensures that game narratives, characters and healing arcs resonate emotionally and culturally with players worldwide.
@@ -125,7 +141,7 @@ The business model uses modern cloud technologies (e.g., Snowflake) for flexible
 
 ## Markets {#sec-maerkte}
 
-The **global market** for digital health applications, Serious Games for health, and preventive health-promotion offerings is growing continuously. The COVID-19 pandemic accelerated worldwide acceptance of digital health solutions, and the current AI revolution is fuelling curiosity about AI-driven coaching and assessment tools. At the same time, the need for low-threshold prevention offerings is rising globally due to:
+The **global market** for digital health applications and Serious Games continues to grow, complemented by robust adjacent markets in the **creator economy (YouTube and original formats)**, **artisanal e-commerce**, and **experience-based tourism**. The COVID-19 pandemic accelerated acceptance of digital health solutions; the current AI wave fuels interest in AI-driven coaching and assessment. In parallel, craft and experiential travel continue to benefit from content-driven discovery and niche community building. The need for low-threshold prevention offerings is rising globally due to:
 
 -   Demographic change and increasing life expectancy in high-income markets
 -   Rise of stress-related illnesses and psychological strain across cultures
@@ -136,12 +152,14 @@ The founding of **Serious Ben Entertainment** builds on the founders' combined e
 
 ### Market Potentials
 
-The global market for digital health services and Serious Games offers significant growth potential:
+Significant growth potential exists across the studio’s lines:
 
--   **Workplace wellness (worldwide):** Employers in the US, UK, EU and increasingly across Africa and Asia are investing in scalable digital solutions for employee health — the platform's primary global revenue channel.
--   **Direct-to-consumer health games and coaching:** Health-conscious individuals worldwide are willing to pay for evidence-based, gamified prevention products; recurring SaaS revenue through subscriptions and per-module sales.
--   **Coaching market:** The market for (health) coaching is growing continuously; AI-supported approaches open up new possibilities at price points accessible to global customers.
--   **Domestic reimbursement schemes (selective):** Where favourable, individual game modules are certified for domestic reimbursement. **Example — Germany (§20 SGB V):** statutory health-insurance funds invest several hundred million Dollars annually in prevention courses, with strong policy push toward digital formats. The §20 SGB V channel is treated as a high-value but country-specific add-on, not the foundation of the business model.
+-   **Workplace wellness (worldwide):** Employers in the US, UK, EU and increasingly across Africa and Asia invest in scalable digital solutions for employee health — a primary revenue channel for Serious Health Games.
+-   **Direct-to-consumer health games and coaching:** Evidence-based, gamified prevention products monetize via subscriptions or per-module pricing; coaching adds higher-touch services.
+-   **Creator economy (YouTube & original formats):** Monetization via ads, sponsorships, product placement, affiliate partnerships, and merch. The Dating Show "Love is Warm" provides a tentpole format; studio and off-grid content supports always-on engagement.
+-   **Artisanal e-commerce (global):** Kitenge Krafts and Malawi Wood Kraft address buyers seeking authentic, ethically produced craft goods; discoverability via YouTube, Pinterest, Instagram, and marketplaces.
+-   **Experience-based tourism (Monkey Bay, Malawi):** Guided Hike-/Bike-/Rafting tours with a real-world serious game appeal to adventure and culture travelers; cross-sell via content and craft brand storytelling.
+-   **Domestic reimbursement schemes (selective):** For Serious Health Games, individual modules can be certified for domestic reimbursement; the German **§20 SGB V** market is the first example.
 
 ### Professional Foundations
 
@@ -167,25 +185,37 @@ This combination enables the team to develop SaaS products that pair therapeutic
 ### Market Overview
 
 ```{mermaid}
-%%| fig-cap: "Serious Ben Entertainment Product Portfolio"
+%%| fig-cap: "Serious Ben Entertainment Multi-Vertical Portfolio"
 %%| fig-width: 6
 %%| fig-height: 4
 graph TD
-    A[Serious Ben Entertainment<br/>Global SaaS Platform] --> B[Serious Health Games]
-    A --> C[Coaching Services]
-    A --> D[Free Diagnostic Apps]
+  A[Serious Ben Entertainment<br/>Global Studio Hub] --> B[Serious Health Games]
+  A --> C[Coaching]
+  A --> D[Free Diagnostic Apps]
+  A --> F[Media & YouTube\nLove is Warm]
+  A --> G[Artisan Crafts\nKitenge & Wood]
+  A --> H[Adventure Tours\nMonkey Bay]
 
-    B --> B1[BenBen<br/>Back School]
-    B --> B2[Relaxation<br/>Training]
-    B --> B3[Qi-Gong]
+  B --> B1[BenBen\nBack School]
+  B --> B2[Relaxation\nTraining]
+  B --> B3[Qi-Gong]
 
-    C --> C1[Coaching]
-    C --> C2[AI-supported<br/>Coaching]
+  C --> C1[Coaching]
+  C --> C2[AI-supported\nCoaching]
 
-    D --> D1[Personality<br/>Questionnaires]
-    D --> D2[Mini-Games for<br/>Self-Reflection]
+  D --> D1[Personality\nQuestionnaires]
+  D --> D2[Mini-Games\nSelf-Reflection]
 
-    B1 -.domestic adaptation.-> E[§20 SGB V<br/>Germany - example]
+  F --> F1[Dating Show\nLove is Warm]
+  F --> F2[Off-grid Builds\nStudio Life]
+
+  G --> G1[Kitenge Krafts]
+  G --> G2[Malawi Wood Kraft]
+
+  H --> H1[Hike/Bike/Raft]
+  H --> H2[Geocaching\nBloody Monkey]
+
+  B1 -.domestic adaptation.-> E[§20 SGB V\nGermany - example]
 ```
 
 ## Personal and Professional Qualifications {#sec-qualifikationen}
@@ -277,7 +307,7 @@ Further details can be found in the attached CVs of both founders.
 
 ### Customer Target Groups
 
-The SaaS offerings of Serious Ben Entertainment are aimed at different target groups worldwide with specific needs:
+The studio's offerings of Serious Ben Entertainment are aimed at different target groups worldwide with specific needs:
 
 **Primary target groups (global):**
 
@@ -297,32 +327,32 @@ The SaaS offerings of Serious Ben Entertainment are aimed at different target gr
 
 ### Competitive Positioning
 
-The market for digital health applications is growing strongly but is also becoming increasingly fragmented. Different providers focus on fitness apps, meditation apps, or pure coaching platforms.
+The markets we participate in are competitive yet fragmented — from fitness apps and meditation tools to creator channels, craft marketplaces, and local tour operators.
 
 **Unique selling points of Serious Ben Entertainment:**
 
-1.  **Interdisciplinary, dual-founder expertise:** Combination of clinical therapy, Data Science, and creative-healing/social-work practice (Phelire Chisi as creative force)
-2.  **Holistic approach:** Integration of movement, relaxation, coaching, narrative-driven Serious Games and AI support in one platform
-3.  **Evidence-based:** All offerings are grounded in scientifically sound methods
-4.  **Freemium strategy:** Free diagnostic apps as a low-threshold entry point
-5.  **Domestic-adaptation strategy:** Selected modules can be additionally certified for local reimbursement schemes — Germany's §20 SGB V certification is the first example, enabling reimbursement and premium pricing in that market without forcing the global product to follow German bureaucracy
-6.  **Personal touch:** Combination of automated AI services and personal coaching (Blended Learning)
+1.  **Interdisciplinary, dual-founder expertise:** Clinical therapy + Data Science + creative-healing/social-work practice (Phelire Chisi as creative force) underpin both digital and physical offerings.
+2.  **Holistic approach:** Integration of movement, relaxation, coaching, narrative-driven Serious Games, AI support, crafts, content, and place-based adventures.
+3.  **Evidence-based + culturally authored:** Therapeutic quality meets Malawian-rooted, globally relatable storytelling and design.
+4.  **Freemium strategy (digital):** Free diagnostic apps as a low-threshold entry point to SaaS, coaching, and even crafts/tours via content tie-ins.
+5.  **Domestic-adaptation strategy (selective):** Module-level reimbursement (e.g., Germany’s §20 SGB V) without overconstraining the global product.
+6.  **Content-commerce flywheel:** YouTube and "Love is Warm" drive awareness and trust; crafts and tours monetize fandom and community interest.
 
-**Competitive comparison:**
+**Competitive comparison (selected):**
 
--   Pure fitness apps (e.g., Freeletics): Focus only on training, no coaching, no narrative
--   Meditation apps (e.g., Headspace): Mental health only, no movement, no game mechanics
--   Coaching platforms: Mostly high cost, no integrated games, no domestic-reimbursement strategy
--   National §20-style course providers: Mostly classic on-site courses, little creative or digital innovation, no global ambition
+-   Fitness/meditation apps: narrow focus, limited narrative/physical-world crossover.
+-   Coaching platforms: limited integration with games and content-commerce.
+-   Craft brands: often separated from owned content and experiences; limited authentic place-based storytelling.
+-   Tour operators: rarely leverage original IP or real-world serious-game mechanics to deepen engagement.
 
 ### Pricing
 
-The pricing structure is transparent and follows the SaaS model with various price tiers. Currency reference is **US Dollars (USD)**, which the studio uses as its functional global currency (see operational rationale in the project's currency notes).
+We price transparently across digital, media-enabled, craft, and experiential offerings. Reference currency is **US Dollars (USD)**.
 
-**Serious Health Game modules (global price):**
+**Serious Health Games (global):**
 
--   Price: **Dollar 150.00** per module (8–10 weeks of structured content)
--   Offerings: BenBen - Back School, relaxation training, Qi-Gong, additional modules in the pipeline
+-   Price: **Dollar 150.00** per module (8–10 weeks structured content)
+-   Offerings: BenBen - Back School, relaxation training, Qi-Gong
 -   **Domestic adaptation example — Germany (§20 SGB V):** identical 150 Dollar price; **75–150 Dollar reimbursement** by German statutory health-insurance funds; customer's own contribution **0–75 Dollar**
 
 **Coaching Services (global):**
@@ -331,57 +361,61 @@ The pricing structure is transparent and follows the SaaS model with various pri
 -   **Coaching:** Dollar 125.00 per session (60 min.)
 -   **Coaching package:** Dollar 650.00 (6 sessions)
 
+**Media & YouTube (global):**
+
+-   Monetization via ads (programmatic), sponsorships, product placement, affiliate partnerships, and merchandise linked to the crafts brands and tour experiences. Sponsorship packages are scoped per season of "Love is Warm" and per content series for the YouTube channel.
+
+**Artisan Crafts — Kitenge Krafts and Malawi Wood Kraft (global e-commerce):**
+
+-   Indicative retail ranges: small accessories Dollar 15–40; bags Dollar 40–120; wooden homeware Dollar 25–150; limited editions and bespoke items priced per design and material.
+-   Sales via own shop and marketplaces; shipping priced by region and weight; sustainable packaging where feasible.
+
+**Adventure Tourism — Monkey Bay Tours (on-site):**
+
+-   Guided Hike-/Bike-/Rafting tours: from Dollar 25–80 per person (group-size and route dependent); private/custom routes on request.
+-   Real-world serious game/geocaching multi-cache ("The Serious Curse of the Bloody Monkey"): access bundled into select tours; stand-alone experiences priced per group.
+
 **Free offerings (lead generation):**
 
--   Personality questionnaires
--   Mini self-reflection games
--   Health check apps
+-   Personality questionnaires, mini self-reflection games, health check apps, tour teaser content.
 
-The pricing takes into account:
-
--   Standard global market rates for digital health offerings and Serious Games
--   Reimbursability under selected domestic schemes (e.g., §20 SGB V in Germany) where applicable
--   Low entry barriers through free diagnostic tools
--   Value perception through evidence-based quality and creative production value
+Pricing reflects standard global market rates, selective reimbursability, low entry barriers via free tools, and added value through evidence-based quality, cultural authorship, and place-based experiences.
 
 ### Marketing and Sales
 
 **Online Marketing (global):**
 
--   **Website:** [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) as the central SaaS platform, English-first
--   **Content marketing:** Blog articles on health topics, SEO optimization for English-language search
--   **Social media:** LinkedIn (B2B, global), Instagram and TikTok (B2C, global)
--   **E-mail marketing:** Newsletter with health tips
--   **App stores (planned):** Companion mobile apps in iOS App Store and Google Play (worldwide territories)
+-   **Website:** [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) as the central platform and link-in-bio hub
+-   **Content marketing:** Health topics, craft features, behind-the-scenes production, SEO for English-language search
+-   **YouTube and Creator Channels:** Tentpole Dating Show "Love is Warm"; off-grid/studio build series; product and tour integrations
+-   **Social media:** LinkedIn (B2B), Instagram/TikTok (B2C), Pinterest (craft inspiration and product discovery)
+-   **E-mail marketing:** Newsletter with health tips, drops for new craft items, tour availability, show updates
+-   **App stores (planned):** Companion mobile apps in iOS/Android (from 2027)
+
+**Commerce & Experiences:**
+
+-   **E-commerce:** Own shop plus marketplaces (e.g., Etsy) for Kitenge Krafts and Malawi Wood Kraft; Instagram Shop enablement
+-   **Bookings:** Direct booking for Monkey Bay tours; syndication to travel/experience platforms where suitable
 
 **Cooperations and Partnerships:**
 
--   **International employer and workplace-wellness partnerships:** Companies running global wellness programs are addressed as the primary B2B multiplier. Cooperation forms include integration of game modules into existing wellness platforms, joint offering design for corporate customers, and training for HR departments.
--   **Clinical and NGO partners:** Therapy practices, community-health programs and NGOs (English-speaking markets first) integrating individual modules into their care or outreach pathways.
--   **Health portals and directories (global):** Listing in relevant English-language online directories and content cooperations with health portals for lead generation.
--   **Domestic-adaptation example — Germany (§20 SGB V):** Acquiring German statutory health-insurance funds as partners is the first concrete domestic-adaptation channel, with an enormous multiplier effect for the German market. Outreach proceeds in stages:
-    1.  *Certification by the ZPP:* The BenBen - Back School module is prepared for certification by the Central Examination Office for Prevention (ZPP) as an ICT-based prevention offering. This is a prerequisite for reimbursability.
-    2.  *Direct outreach to prevention departments:* After successful certification, the prevention departments of selected health insurance funds (e.g., AOK, TK, Barmer) are contacted directly — by e-mail and telephone with a concrete offer and certification proof.
-    3.  *Cooperation models:*
-        -   **Listing in the course directory:** Health insurance funds list certified courses in their online directories; insured persons can book these directly and apply for reimbursement.
-        -   **Framework agreements:** Long-term agreements with individual funds enabling preferred placement, joint marketing campaigns, or exclusive offers for their insured.
-        -   **White-label solutions:** Individual customization of the apps (branding, content) for health insurance funds that wish to offer their own digital prevention services under their name.
-    4.  *Network maintenance:* Participation in industry events (e.g., DMEA, workplace-health congresses) for contact-building and product presentation.
-
-    Comparable domestic-adaptation playbooks (UK, US, Malawi/southern Africa) will be developed once the German channel proves the model.
+-   **International employer and workplace-wellness partners** for Serious Health Games
+-   **Clinical/NGO partners** for module integration
+-   **Sponsorships and brand partners** for "Love is Warm" and YouTube
+-   **Local tourism stakeholders** around Monkey Bay; visibility on Google Maps/Tripadvisor/Airbnb Experiences
+-   **Domestic-adaptation example — Germany (§20 SGB V):** As previously described (ZPP certification, outreach to funds, directory listing, framework agreements, white-label where appropriate)
 
 **Freemium Strategy:**
 
--   Free apps as an entry point and trust-builder — users experience the added value without a financial hurdle and develop trust in the platform.
--   Data-driven, personalized recommendations for premium offerings — based on the results of the free diagnostic tools, tailored paid courses or coaching services are suggested.
--   Evidence-based evaluations show concrete added value — scientifically grounded result reports motivate users to book further offerings.
+-   Free apps as a trust-building entry point; content-led discovery funnels to premium games, coaching, crafts, and tours
+-   Evidence-based evaluations and authentic storytelling to drive conversion
 
 **Sales channels:**
 
--   Direct sales via own website – main global channel for all products with integrated booking and payment system (multi-currency / Dollar pricing).
--   App stores (planned for mobile apps) – expansion of reach through presence in iOS App Store and Google Play from 2027 (worldwide).
--   B2B sales to international companies – direct outreach to HR and workplace-wellness managers for company licenses and employee offerings.
--   Domestic-reimbursement directories (example): for the German market, listing in §20-course directories — central visibility for German insured persons actively looking for reimbursable prevention offerings.
+-   Direct sales via own website/e-commerce — integrated booking and payment (Dollar-led)
+-   Marketplaces for crafts; creator-commerce integrations
+-   B2B employer channel for Serious Health Games
+-   Domestic-reimbursement directories (e.g., German §20)
 
 ### Offering Overview
 
@@ -390,21 +424,33 @@ The pricing takes into account:
 %%| fig-width: 6
 %%| fig-height: 3.5
 graph LR
-    A[Serious Ben Entertainment<br/>Global SaaS Platform] --> B[Serious Health Games<br/>Dollar150 each]
-    A --> C[Coaching]
-    A --> D[Free Tools]
+  A[Serious Ben Entertainment<br/>Global Studio Hub] --> B[Serious Health Games<br/>Dollar150 each]
+  A --> C[Coaching]
+  A --> D[Free Tools]
+  A --> F[Media & YouTube<br/>Love is Warm]
+  A --> G[Artisan Crafts<br/>Kitenge & Wood]
+  A --> H[Adventure Tours<br/>Monkey Bay]
 
-    B --> B1[BenBen<br/>Back School]
-    B --> B2[Relaxation<br/>Training]
-    B --> B3[Qi-Gong]
+  B --> B1[BenBen<br/>Back School]
+  B --> B2[Relaxation<br/>Training]
+  B --> B3[Qi-Gong]
 
-    C --> C1[Coaching<br/>Dollar125/session]
-    C --> C2[AI Coaching<br/>Dollar30.00/month]
+  C --> C1[Coaching<br/>Dollar125/session]
+  C --> C2[AI Coaching<br/>Dollar30/month]
 
-    D --> D1[Questionnaires]
-    D --> D2[Mini-Games]
+  D --> D1[Questionnaires]
+  D --> D2[Mini-Games]
 
-    B1 -.domestic adaptation.-> E[§20 SGB V<br/>Germany - example]
+  F --> F1[Dating Show<br/>Love is Warm]
+  F --> F2[Off-grid Builds<br/>& Studio Life]
+
+  G --> G1[Kitenge Krafts]
+  G --> G2[Malawi Wood Kraft]
+
+  H --> H1[Hike/Bike/Raft]
+  H --> H2[Geocaching<br/>Bloody Monkey]
+
+  B1 -.domestic adaptation.-> E[§20 SGB V<br/>Germany - example]
 ```
 
 ## Future Outlook, Opportunities, and Risks {#sec-zukunftsaussichten}
@@ -585,38 +631,47 @@ The founders' personal situation favours the venture:
 
 ### Revenue Planning
 
-The revenue forecast is based on realistic assumptions for a digital SaaS business model in the build-up phase:
+The revenue forecast reflects a diversified, multi-vertical model with conservative assumptions for media, crafts, and tours, and a reduced emphasis on SaaS:
 
 **Assumptions Year 1 (2026, 6 months):**
 
--   Serious Health Game modules (incl. first §20 SGB V launches in Germany): 15 modules × Dollar150 = Dollar2,250
--   Coaching: 7.2 sessions × Dollar125 = Dollar900
--   AI Coaching subscriptions: 24 subs × Dollar30 × ø 1 month = Dollar718
--   **Total:** Dollar3,868
+-   Serious Health Game modules: 8 modules × Dollar150 = Dollar1,200
+-   Coaching: 6 sessions × Dollar125 = Dollar750
+-   AI Coaching subscriptions: 12 subs × Dollar30 × ø 1 month = Dollar360
+-   Media & YouTube: Dollar300
+-   Artisan Crafts (Kitenge & Wood): 60 items × Dollar35 avg = Dollar2,100
+-   Monkey Bay tours & real-world serious game: 20 participants × Dollar35 = Dollar700
+-   **Total:** Dollar5,410
 
 **Assumptions Year 2 (2027):**
 
--   Serious Health Game modules (global direct + §20 SGB V Germany): 60 modules × Dollar150 = Dollar9,000
--   Coaching: 36 sessions × Dollar120 = Dollar4,320
--   AI Coaching subscriptions: 30 subs × Dollar30 × 12 months = Dollar10,764
--   Workplace-wellness cooperation: 2 companies × Dollar2,000 = Dollar4,000
--   **Total:** Dollar28,084
+-   Serious Health Game modules (global direct + selective §20 Germany): 40 × Dollar150 = Dollar6,000
+-   Coaching: 30 sessions × Dollar120 = Dollar3,600
+-   AI Coaching subscriptions: 30 subs × Dollar30 × 12 months = Dollar10,800
+-   Media & YouTube: Dollar5,000
+-   Artisan Crafts: 400 items × Dollar45 avg = Dollar18,000
+-   Monkey Bay tours & real-world serious game: 200 participants × Dollar40 = Dollar8,000
+-   Workplace-wellness cooperation: 1 company × Dollar2,000 = Dollar2,000
+-   **Total:** Dollar53,400
 
 **Assumptions Year 3 (2028):**
 
--   Serious Health Game modules (global direct + §20 SGB V Germany): 120 modules × Dollar150 = Dollar18,000
--   Coaching: 60 sessions × Dollar120 = Dollar7,200
--   AI Coaching subscriptions: 80 subs × Dollar30 × 12 months = Dollar28,704
--   Workplace-wellness cooperations: 5 companies × Dollar2,500 = Dollar12,500
--   **Total:** Dollar66,404
+-   Serious Health Game modules (global direct + selective §20 Germany): 80 × Dollar150 = Dollar12,000
+-   Coaching: 50 sessions × Dollar120 = Dollar6,000
+-   AI Coaching subscriptions: 100 subs × Dollar30 × 12 months = Dollar36,000
+-   Media & YouTube: Dollar20,000
+-   Artisan Crafts: 1,000 items × Dollar50 avg = Dollar50,000
+-   Monkey Bay tours & real-world serious game: 500 participants × Dollar45 = Dollar22,500
+-   Workplace-wellness cooperations: 3 companies × Dollar2,500 = Dollar7,500
+-   **Total:** Dollar154,000
 
 ### Chart: Company Development (Dollar)
 
 | Year | Revenue (Dollar) | Operating Costs (Dollar) | Annual Surplus (Dollar) |
-|------|-------------|---------------------|--------------------|
-| 2026 | 3,868       | 4,530               | -662               |
-| 2027 | 28,084      | 9,060               | 19,024             |
-| 2028 | 66,404      | 9,060               | 57,344             |
+|------|-------------------|--------------------------|-------------------------|
+| 2026 | 5,410             | 5,730                    | -320                    |
+| 2027 | 53,400            | 15,060                   | 38,340                  |
+| 2028 | 154,000           | 21,060                   | 132,940                 |
 
 ```{r}
 #| echo: false
@@ -627,9 +682,9 @@ library(tidyverse)
 
 # Creating data
 jahre <- c("2026\n(6 mo.)", "2027", "2028")
-umsatz <- c(3868, 28084, 66404)
-kosten <- c(4530, 9060, 9060)
-gewinn <- c(-662, 19024, 57344)
+umsatz <- c(5410, 53400, 154000)
+kosten <- c(5730, 15060, 21060)
+gewinn <- c(-320, 38340, 132940)
 
 df <- tibble(
   Year = factor(jahre, levels = jahre),
@@ -668,49 +723,50 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 | Item | 2026 (6 mo.) (Dollar) | Year 2027 (Dollar) | Year 2028 (Dollar) |
 |------------------|-------------------|------------------|------------------|
 | **Net income** |  |  |  |
-| Serious Health Game modules (global + §20 Germany) | 2,250.00 | 9,000.00 | 18,000.00 |
-| Coaching | 900.00 | 4,320.00 | 7,200.00 |
-| AI Coaching subscriptions | 718.00 | 10,764.00 | 28,704.00 |
-| Workplace-wellness cooperations | 0.00 | 4,000.00 | 12,500.00 |
-| **Total income = Gross income I** | **3,868.00** | **28,084.00** | **66,404.00** |
-| less operating expenses | 4,530.00 | 9,060.00 | 9,060.00 |
-| **Total operating result = Gross income II** | **-662.00** | **19,024.00** | **57,344.00** |
+| Serious Health Game modules (global + selective §20 Germany) | 1,200.00 | 6,000.00 | 12,000.00 |
+| Coaching | 750.00 | 3,600.00 | 6,000.00 |
+| AI Coaching subscriptions | 360.00 | 10,800.00 | 36,000.00 |
+| Workplace-wellness cooperations | 0.00 | 2,000.00 | 7,500.00 |
+| Media & YouTube | 300.00 | 5,000.00 | 20,000.00 |
+| Artisan Crafts (Kitenge & Wood) | 2,100.00 | 18,000.00 | 50,000.00 |
+| Monkey Bay tours & real-world serious game | 700.00 | 8,000.00 | 22,500.00 |
+| **Total income = Gross income I** | **5,410.00** | **53,400.00** | **154,000.00** |
+| less operating expenses | 5,730.00 | 15,060.00 | 21,060.00 |
+| **Total operating result = Gross income II** | **-320.00** | **38,340.00** | **132,940.00** |
 | Depreciation on investments | 400.00 | 400.00 | 400.00 |
-| **Total basis for income tax** | **-1,062.00** | **18,624.00** | **56,944.00** |
+| **Total basis for income tax** | **-720.00** | **37,940.00** | **132,540.00** |
 | Personal drawings / cost of living | 9,324.00 | 18,648.00 | 18,648.00 |
-| **Total operating result less personal drawings = Cash flow** | **-9,986.00** | **376.00** | **38,696.00** |
+| **Total operating result less personal drawings = Cash flow** | **-9,644.00** | **19,692.00** | **114,292.00** |
 | \+ Side income (lecturing) | 4,000.00 | 8,000.00 | 8,000.00 |
 | \+ Founding subsidy (6 months × Dollar2,000) | 12,000.00 | 0.00 | 0.00 |
-| **Total profitability** | **6,014.00** | **8,376.00** | **46,696.00** |
-| **Cumulative cash flow** | **6,014.00** | **14,390.00** | **61,086.00** |
+| **Total profitability** | **6,356.00** | **27,692.00** | **122,292.00** |
+| **Cumulative cash flow** | **6,356.00** | **34,048.00** | **156,340.00** |
 
 **Notes:**
 
 **2026 (founding year, 6 months):**
 
--   Start-up phase with low revenues (Dollar3,868)
--   Operating costs: 6 months × Dollar755 = Dollar4,530
--   Operating cash flow negative (-Dollar662), but through founding subsidy (Dollar12,000) and side income (Dollar4,000) positive overall profitability of Dollar6,014
+-   Start-up phase with diversified but early-stage revenues (Dollar5,410)
+-   Operating costs: baseline plus small media/craft/tour overhead = Dollar5,730
+-   Operating cash flow negative (-Dollar320), but founding subsidy (Dollar12,000) and side income (Dollar4,000) yield positive overall profitability of Dollar6,356
 -   Personal drawings: 6 months × (Dollar1,180 cost of living + Dollar374 insurance) = Dollar9,324
 -   Founding subsidy: 6 × Dollar2,000 = Dollar12,000
 
 **2027 (Year 2):**
 
--   Significant revenue growth to Dollar28,084
--   Operating costs: 12 months × Dollar755 = Dollar9,060
--   Operating annual surplus: Dollar19,024
+-   Strong multi-vertical revenue growth to Dollar53,400 (notably crafts, AI coaching, tours, media)
+-   Operating costs: baseline plus added variable budgets = Dollar15,060
+-   Operating annual surplus: Dollar38,340
 -   Personal drawings: 12 months × Dollar1,554 = Dollar18,648
--   Despite a positive operating result, low cash flow (Dollar376) after personal drawings
--   With side income (Dollar8,000), positive overall profitability: Dollar8,376
+-   Cash flow after drawings: Dollar19,692; with side income (+Dollar8,000), total profitability: Dollar27,692
 
 **2028 (Year 3):**
 
--   Strong revenue growth to Dollar66,404
--   Operating costs remain constant: Dollar9,060 (assumption: no scaling of fixed costs)
--   Operating annual surplus: Dollar57,344
--   Positive cash flow of Dollar38,696 after personal drawings
--   Overall profitability incl. side income: Dollar46,696
--   Cumulative cash flow: Dollar61,086
+-   Further scale across media/crafts/tours to Dollar154,000
+-   Operating costs: Dollar21,060 (assumes modest scaling of variable budgets)
+-   Operating annual surplus: Dollar132,940
+-   Cash flow after drawings: Dollar114,292; total profitability incl. side income: Dollar122,292
+-   Cumulative cash flow: Dollar156,340
 
 **Liquidity Safeguarding:**
 
@@ -770,6 +826,44 @@ The central web platform serves as the hub for all services:
 -   Step-by-step tutorials
 -   Traditional Chinese movement art
 
+### Media & YouTube
+
+**Dating Show — "Love is Warm":**
+
+-   Original relationship-focused format centering on empathy, culture, and community.
+-   Distribution via YouTube; monetization via ads, sponsorships, product placement, and affiliated merch (craft brands).
+-   Seasonal production with sponsor packages; cross-promotion of crafts and tours.
+
+**YouTube — Off-grid Plot & Studio Life:**
+
+-   Documentary-style build series of the Monkey Bay plot (existing: wooden shed with compost toilet, shower and kitchen; summer hut in the center; well; tents; dog house. Planned: chicken house; second kitchen with bread oven at the summer hut; further upgrades).
+-   Behind-the-scenes of game production, craft design, and tour scoping; creator-commerce tie-ins.
+
+### Artisan Crafts (Global E-commerce)
+
+**Kitenge Krafts:**
+
+-   Fabric-based handcrafted items (bags, accessories, home goods) inspired by Malawian design.
+-   Inspiration/moodboard: Pinterest — https://de.pinterest.com/tamarachisi/?invite_code=eec32672190e4c3f8c5b0eb17384bf8e&sender=666603319753565587
+-   Drops synchronized with content releases; sustainable material sourcing where possible.
+
+**Malawi Wood Kraft:**
+
+-   Sustainably sourced wooden handcrafted items (homeware, decor, small furniture and utility pieces where feasible).
+-   Small-batch production; limited editions; custom commissions by request.
+
+### Adventure Tourism — Monkey Bay (On-site)
+
+**Guided Hike-/Bike-/Rafting Tours:**
+
+-   Curated routes around Monkey Bay with varying difficulty and duration; safety-first planning and equipment guidance.
+-   Group and private bookings; optional photo/video packages produced by the media arm.
+
+**Real-world Serious Game — Geocaching Multi-Cache:**
+
+-   "The Serious Curse of the Bloody Monkey" — a narrative-driven, clue-based multi-cache that turns the environment into a live serious game.
+-   Bundled with select tours or offered as a stand-alone group experience.
+
 ### Coaching Services
 
 **AI-supported Coaching (Dollar30.00/month):**
@@ -798,7 +892,7 @@ After evaluation: Personalized recommendations for paid offerings
 
 **Status:** Development planned for 2027 (worldwide territories)
 
-**Functions:** - All web functions as a native app - Offline use of selected content - Push notifications for coaching - Integration with Apple Health / Google Fit
+**Functions:** - All web functions as a native app - Offline use of selected content - Push notifications for coaching - Integration with Apple Health / Google Fit - Optional support for geocaching clue logs and tour check-ins
 
 # Appendix {#sec-anhang}
 
@@ -847,7 +941,7 @@ The following overview addresses the central questions of the Cologne Business c
 
 **2. Founding concept and market opportunities:**
 
--   [x] Clearly defined offering: Serious Health Games, coaching, AI services on a global SaaS platform
+-   [x] Clearly defined offering: Serious Health Games (SaaS + AI), media ("Love is Warm" + YouTube), artisan crafts (Kitenge Krafts, Malawi Wood Kraft), Monkey Bay tours & real-world serious games, plus coaching — unified via a global studio platform
 -   [x] Market need: growing global market for digital health and Serious Games
 -   [x] Target groups defined: private individuals worldwide, international employers, NGOs and clinical partners; selectively, domestic health-insurance funds (Germany §20 SGB V as first example)
 -   [x] Marketing concept: freemium strategy, English-first online marketing
