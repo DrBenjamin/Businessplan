@@ -10,9 +10,17 @@ author:
     - "Website: https://www.seriousbenentertainment.org"
 filters:
   - topics/adjustTime.lua
-abstract: |
-  This business plan covers the establishment of Serious Ben Entertainment as a multi-vertical creative studio that operates at the intersection of digital health, media, crafts, and adventure tourism for a global, English-speaking audience. The studio’s portfolio includes: (1) Serious Health Games (SaaS) with AI-supported coaching and assessment, (2) the Dating Show format "Love is Warm" and related YouTube media, (3) Kitenge Krafts — fabric-based handcrafted items inspired by Malawian design, (4) Malawi Wood Kraft — sustainably sourced wooden handcrafted items, (5) Hike-/Bike-/Rafting tours around the Monkey Bay plot featuring a real-world serious-game geocaching adventure titled "The Serious Curse of the Bloody Monkey", and (6) YouTube content documenting the Monkey Bay off-grid plot (current: wooden shed with compost toilet, shower and kitchen, summer hut, well, tents, dog house; planned: chicken house, second kitchen with bread oven) and everyday off-grid life.
+EXECUTIVE SUMMARY |
+ Serious Ben Entertainment is a globally oriented enterprise that combines entertainment, tourism, serious games and crafts into one interconnected business system. it opearates through five core divisions
+  1. Serious games with AI supported coaching and assessment
+  2. Love is warm dating show
+  3. Kitenge krafts
+  4. Malawi wood krafts 
+  5. Hike,Bike, Rafting tours
   
+  The company currently consists of two founders namely: Benjamin Groß and Phelire Chisi. Benjamin Gross is the pioneer behind serious Games and the wood kraft while Phelire chisi manages kitenge krafts. Love is warm dating show and Hike, bike and rafting will be managed by both founders. Serious Ben entertainment has currently one employee who will responsible for the video edits. 
+  
+     
   The plan outlines the studio’s mission, market opportunities across these lines, modular product and content roadmaps (e.g., the flagship BenBen - Back School game), the creative founding team, go-to-market and monetization strategies, and an operational plan spanning SaaS, content production, e-commerce for crafts, and experience-based tourism.
 format:
   html:
@@ -62,14 +70,10 @@ execute:
 \clearpage
 
 ::: callout-note
-## Founding Proposal
 
-**Founding:** Serious Ben Entertainment is a new multi-vertical studio serving a global, English-speaking audience with a portfolio spanning Serious Health Games (SaaS + AI), original media formats (the Dating Show "Love is Warm"), artisan crafts brands (Kitenge Krafts and Malawi Wood Kraft), adventure tourism and real-world serious games in Monkey Bay, and a YouTube channel showcasing the off-grid plot and creative studio life. Co-founded by Benjamin Gross (clinical, data-science and product expertise) and Phelire Chisi (Social Worker, Artist, Healer — the creative force behind the studio), the company blends clinical rigor, data/AI capability, cultural authorship and craft. Based in Lilongwe and Monkey Bay (Malawi), the studio serves worldwide audiences through the web platform [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org), global creator channels, and e-commerce/booking integrations.
-
-**Founders:** Benjamin Gross & Phelire Chisi New Area 43 Lilongwe
 :::
 
-# Brief Project Description {#sec-kurzbeschreibung}
+# Bussiness Description {#sec-kurzbeschreibung}
 
 Serious Ben Entertainment operates a modular portfolio with a digital core and place-based extensions:
 
@@ -539,6 +543,31 @@ The founders' personal situation favours the venture:
 -   **Resilience:** Both founders have navigated financially challenging phases during training, vocational training and studies
 -   **Network:** Long-standing contacts in healthcare and health-IT in Germany and Malawi, plus creative and social-work networks in Malawi
 -   **Continuous further training:** Commitment to lifelong learning and adaptability across both founders
+
+Serious Ben Entertainment is a multidisciplinary creative company that combines entertainment, tourism, AI-supported systems, handmade crafts, and digital storytelling into one business structure.
+The company focuses on developing products and experiences that connect culture, creativity, wellness, and technology. Through its different divisions, the business seeks to provide meaningful entertainment, promote authentic cultural exchange, encourage tourism, and create innovative educational and lifestyle experiences.
+
+The Serious Games division focuses on developing interactive AI-supported games and assessment systems aimed at improving physical health, and learning experiences. The Love Is Warm dating show focuses on interracial and intercultural relationships by creating emotionally engaging and culturally diverse entertainment content for global audiences.
+Kitenge Krafts specializes in handmade African-inspired products using Chitenje/Kitenge fabrics, including meditation pillows, fashion accessories, home décor, and wellness products. Wood Krafts focuses on handcrafted wooden furniture, décor, and artistic products inspired by African craftsmanship and modern lifestyle aesthetics.
+The Hike, Bike and Rafting Tours division focuses on eco-tourism and outdoor adventure experiences, offering hiking, biking, rafting, camping, and cultural exploration activities that showcase Malawi’s natural beauty and tourism potential.
+
+Mission Statement    
+Our mission is to create innovative and culturally meaningful entertainment, tourism, and creative experiences that connect people across cultures through technology, craftsmanship, and adventure while promoting sustainable growth and global cultural exchange.
+
+Marketing:
+
+1. Pricing policy
+2. Advertising Plan
+3. Competitive analysis
+4. Competitive advantage
+
+  OPERATIONS
+  
+  
+  SUSTAINABLE DEVELOPMENT MEASURE OF PERFOMANCE 
+  
+  CRITICAL RISKS
+
 
 # Profitability Calculations {#sec-wirtschaftlichkeit}
 
