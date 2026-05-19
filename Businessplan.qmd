@@ -66,9 +66,9 @@ execute:
 
 ## **Executive Summary**
 
-Serious Ben Entertainment is a globally oriented enterprise that combines entertainment, tourism, serious games and crafts into one interconnected business system. it opearates through five core divisions 1. Serious games with AI supported coaching and assessment 2. Love is warm dating show 3. Kitenge krafts 4. Malawi wood krafts 5. Hike,Bike, Rafting tours 6. Lilongwe Therapy Center 7. and all other media content
+Serious Ben Entertainment is a globally oriented enterprise that combines entertainment, tourism, serious games and crafts into one interconnected business system. It operates through five core divisions 1. Serious games with AI supported coaching and assessment 2. Love is warm dating show 3. Kitenge krafts 4. Malawi Wood Kraft 5. Hike,Bike, Rafting tours 6. Lilongwe Therapy Center 7. and all other media content
 
-The company currently consists of two founders namely: Benjamin Gross and Phelire Chisi. Benjamin Gross is the pioneer behind serious Games and the wood kraft while Phelire Chisi manages kitenge krafts. Love is warm dating show and Hike, bike and rafting will be managed by both founders. Serious Ben Entertainment has currently one employee who will responsible for the video edits.
+The company currently consists of two founders namely: Benjamin Gross and Phelire Chisi. Benjamin Gross is the pioneer behind serious Games and the wood craft while Phelire Chisi manages Kitenge Krafts. Love is warm dating show and Hike, bike and rafting will be managed by both founders. Serious Ben Entertainment has currently one employee who will responsible for the video edits.
 
 The plan outlines the studio’s mission, market opportunities across these lines, modular product and content roadmaps (e.g., the flagship BenBox - Back School serious health game), the creative founding team, go-to-market and monetization strategies, and an operational plan spanning SaaS, content production, e-commerce for crafts, and experience-based tourism. format:
 
@@ -82,7 +82,9 @@ Serious Ben Entertainment operates a modular portfolio with a digital core and p
 4.  **Adventure tourism at Monkey Bay**: guided **Hike-/Bike-/Rafting tours** around the plot with **"The Serious Curse of the Bloody Monkey"** geocaching multi-cache as a real-world serious game/adventure.
 5.  Lilongwe Therapy Center focuses on wellness and therapeutic services including physiotherapy, psychosocial counselling, spa services, stress management support, and holistic wellbeing experiences. The center aims to create a safe and supportive environment that promotes both physical and emotional wellness.
 
-BUSINESS SUSTAINABILITY To ensure sustainability, the company will maintain proper financial and operational management systems across all business divisions. Records for sales, expenses, bookings, and digital revenue will be monitored and evaluated regularly to ensure profitability and long-term growth.
+## Business Sustainability
+
+To ensure sustainability, the company will maintain proper financial and operational management systems across all business divisions. Records for sales, expenses, bookings, and digital revenue will be monitored and evaluated regularly to ensure profitability and long-term growth.
 
 ## Fields
 
@@ -96,10 +98,11 @@ The business will primarily use digital marketing strategies through:
 2.  YouTube
 3.  facebook
 4.  Instagram
+5.  E-commerce platforms
 
-5.E-commerce platforms
+<!-- -->
 
-6.Influencer collaborations
+6.  Influencer collaborations
 
 ### Target Population
 
@@ -110,7 +113,7 @@ The platform and studio offerings target a global English-speaking audience and 
 - Coaching clients — personal and AI-supported development support
 - Viewers and fans — YouTube/Dating Show audiences; sponsors/brand partners
 - Craft customers — global buyers of Kitenge Krafts and Malawi Wood Kraft via own shop and marketplaces
-- Tourists and travellers — visitors to Monkey Bay seeking guided outdoor experiences
+- Tourists and travelers — visitors to Monkey Bay seeking guided outdoor experiences
 - Clinical and NGO partners — integrating modules into care pathways
 - Domestic payers — selectively, statutory health insurance and equivalents (e.g., §20 SGB V in Germany) for module-specific reimbursement
 
@@ -156,7 +159,7 @@ This interconnected structure strengthens the overall brand while reducing marke
 
 For starters, operations will be divided according to each business division. Content production and digital operations will be managed primarily online, while product manufacturing and therapy services will operate physically within Lilongwe.love is warm and hike/bike rafting will be done in Monkey Bay.
 
-SUSTAINABLE DEVELOPMENT MEASURES OF PERFORMANCE
+#### Sustainable Development Measures of Performance
 
 To ensure minimal environmental impact and long-term sustainability, the company will:
 
@@ -199,9 +202,9 @@ Year 4–5: International brand expansion, Scaled productions,Export growth
 ::: callout-important
 ## Flagship Module
 
-The **flagship Serious Health Game** is **BenBen - Back School**, a self-contained game module on the Serious Ben Entertainment platform for the prevention of back pain and musculoskeletal limitations. As a web-based SaaS application, it combines playful game mechanics with evidence-based exercises (e.g., Brügger Therapy) and posture detection driven by a self-developed deep learning model (CNN). Globally, it is sold directly to private users and employers via the platform.
+The **flagship Serious Health Game** is **BenBox - Back School**, a self-contained game module on the Serious Ben Entertainment platform for the prevention of back pain and musculoskeletal limitations. As a web-based SaaS application, it combines playful game mechanics with evidence-based exercises (e.g., Brügger Therapy) and posture detection driven by a self-developed deep learning model (CNN). Globally, it is sold directly to private users and employers via the platform.
 
-For the **German domestic market**, BenBen - Back School is being prepared as the studio's first §20 SGB V certified primary-prevention course: priced at 150 Dollars, with German statutory health insurance funds reimbursing up to 150 Dollars. The Central Examination Office for Prevention (ZPP) certifies such offerings under §20 SGB V — e.g., in the category [Game-based learning / serious games / e-teaching](https://www.zentrale-pruefstelle-praevention.de/leistungen/praeventionsangebot-zertifizieren-lassen/ikt-angebote/zertifizierbare-ikt-formate/). Equivalent domestic adaptations (employer pricing in the US, NHS-aligned content in the UK, MASM/CHAM partnerships in Malawi) are evaluated for each subsequent module.
+For the **German domestic market**, BenBox - Back School is being prepared as the studio's first §20 SGB V certified primary-prevention course: priced at 150 Dollars, with German statutory health insurance funds reimbursing up to 150 Dollars. The Central Examination Office for Prevention (ZPP) certifies such offerings under §20 SGB V — e.g., in the category [Game-based learning / serious games / e-teaching](https://www.zentrale-pruefstelle-praevention.de/leistungen/praeventionsangebot-zertifizieren-lassen/ikt-angebote/zertifizierbare-ikt-formate/). Equivalent domestic adaptations (employer pricing in the US, NHS-aligned content in the UK, MASM/CHAM partnerships in Malawi) are evaluated for each subsequent module.
 :::
 
 We position the company as a **studio for evidence-based Serious Health Games and digital coaching — and a creative house for media, crafts, and real-world serious-game adventures**. The dual founding team anchors this breadth:
@@ -248,7 +251,7 @@ graph TD
   A --> G[Artisan Crafts\nKitenge & Wood]
   A --> H[Adventure Tours\nMonkey Bay]
 
-  B --> B1[BenBen\nBack School]
+  B --> B1[BenBox\nBack School]
   B --> B2[Relaxation\nTraining]
   B --> B3[Qi-Gong]
 
@@ -483,7 +486,7 @@ graph LR
   A --> G[Artisan Crafts<br/>Kitenge & Wood]
   A --> H[Adventure Tours<br/>Monkey Bay]
 
-  B --> B1[BenBen<br/>Back School]
+  B --> B1[BenBox<br/>Back School]
   B --> B2[Relaxation<br/>Training]
   B --> B3[Qi-Gong]
 
@@ -634,7 +637,7 @@ CRITICAL RISKS
 ### Insurance and Provident Contributions
 
 | Item                                                     | Amount in Dollar |
-|-----------------------------------------------------|-------------------|
+|----------------------------------------------------|--------------------|
 | Statutory or private health and long-term care insurance | 363.00           |
 | Statutory or private pension/retirement provision        | 00.00            |
 | Other insurance                                          | 11.00            |
