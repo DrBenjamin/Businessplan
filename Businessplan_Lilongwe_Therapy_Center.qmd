@@ -1,6 +1,6 @@
 ---
 title: "Business Plan"
-subtitle: "Therapy Center"
+subtitle: "Lilongwe Therapy Center"
 author:
   name: "Benjamin Gross & Phelire Chisi"
   email: ben@seriousbenentertainment.org
@@ -62,7 +62,7 @@ execute:
 ::: callout-note
 ## Founding Proposal
 
-**Founding:** Therapy Center in Lilongwe, Malawi\
+**Founding:** Lilongwe Therapy Center in Lilongwe, Malawi\
 
 **Founders:** Benjamin Gross & Phelire Chisi\
 New Area 43\
