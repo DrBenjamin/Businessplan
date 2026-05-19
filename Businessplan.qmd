@@ -10,18 +10,9 @@ author:
     - "Website: https://www.seriousbenentertainment.org"
 filters:
   - topics/adjustTime.lua
-EXECUTIVE SUMMARY |
- Serious Ben Entertainment is a globally oriented enterprise that combines entertainment, tourism, serious games and crafts into one interconnected business system. it opearates through five core divisions
-  1. Serious games with AI supported coaching and assessment
-  2. Love is warm dating show
-  3. Kitenge krafts
-  4. Malawi wood krafts 
-  5. Hike,Bike, Rafting tours
-  
-  The company currently consists of two founders namely: Benjamin Gross and Phelire Chisi. Benjamin Gross is the pioneer behind serious Games and the wood kraft while Phelire Chisi manages kitenge krafts. Love is warm dating show and Hike, bike and rafting will be managed by both founders. Serious Ben Entertainment has currently one employee who will responsible for the video edits. 
-     
-  The plan outlines the studio’s mission, market opportunities across these lines, modular product and content roadmaps (e.g., the flagship BenBox - Back School serious health game), the creative founding team, go-to-market and monetization strategies, and an operational plan spanning SaaS, content production, e-commerce for crafts, and experience-based tourism.
-format:
+abstract: |
+  This business plan covers the establishment of all our buisiness.
+format:  
   html:
     embed-resources: true
     theme: cerulean
@@ -71,38 +62,133 @@ execute:
 ::: callout-note
 :::
 
-# Bussiness Description {#sec-kurzbeschreibung}
+# Serious Ben Entertainment {#sec-kurzbeschreibung}
+
+## **Executive Summary**
+
+Serious Ben Entertainment is a globally oriented enterprise that combines entertainment, tourism, serious games and crafts into one interconnected business system. it opearates through five core divisions 1. Serious games with AI supported coaching and assessment 2. Love is warm dating show 3. Kitenge krafts 4. Malawi wood krafts 5. Hike,Bike, Rafting tours 6. Lilongwe Therapy Center 7. and all other media content
+
+The company currently consists of two founders namely: Benjamin Gross and Phelire Chisi. Benjamin Gross is the pioneer behind serious Games and the wood kraft while Phelire Chisi manages kitenge krafts. Love is warm dating show and Hike, bike and rafting will be managed by both founders. Serious Ben Entertainment has currently one employee who will responsible for the video edits.
+
+The plan outlines the studio’s mission, market opportunities across these lines, modular product and content roadmaps (e.g., the flagship BenBox - Back School serious health game), the creative founding team, go-to-market and monetization strategies, and an operational plan spanning SaaS, content production, e-commerce for crafts, and experience-based tourism. format:
+
+# Business Description
 
 Serious Ben Entertainment operates a modular portfolio with a digital core and place-based extensions:
 
-- A web-based SaaS platform — [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) — that publishes a growing portfolio of **Serious Health Games** (evidence-based modules such as **BenBen - Back School**), AI-supported coaching, and free diagnostic mini-apps for lead generation.
-- An original media arm producing the **Dating Show "Love is Warm"** and **YouTube** content documenting the off-grid Monkey Bay plot, production builds, and studio life.
-- Two artisan-craft brands: **Kitenge Krafts** (fabric-based handcrafted items; inspiration and moodboard: [Pinterest](https://de.pinterest.com/tamarachisi/?invite_code=eec32672190e4c3f8c5b0eb17384bf8e&sender=666603319753565587)) and **Malawi Wood Kraft** (sustainably sourced wooden hand crafted items as well as tiny houses).
-- **Adventure tourism at Monkey Bay**: guided **Hike-/Bike-/Rafting tours** around the plot with **"The Serious Curse of the Bloody Monkey"** geocaching multi-cache as a real-world serious game/adventure.
-- **Lilongwe Therapy Center:** a therapy center with Physiotherapy, Occupational Therapy and Psychosocial Consultant services for physical and and mental training and rehabilitation should be established at a suitable premises in Lilongwe, Malawi, providing an accessible setting for health and wellness services. The center will offer a range of services including individual and group therapy sessions, Yoga, QiGong and meditation classes, as well as evidence-based wellness programs. The goal is to provide high-quality, accessible healthcare services to the local community.
+1.  A web-based SaaS platform — [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org) — that publishes a growing portfolio of **Serious Health Games** (evidence-based modules such as **BenBox - Back School**), AI-supported coaching, and free diagnostic mini-apps for lead generation.
+2.  An original media arm producing the **Dating Show "Love is Warm"** and **YouTube** content documenting the off-grid Monkey Bay plot, production builds, and studio life.
+3.  Two artisan-craft brands: **Kitenge Krafts** (fabric-based handcrafted items; inspiration and moodboard: [Pinterest](https://de.pinterest.com/tamarachisi/?invite_code=eec32672190e4c3f8c5b0eb17384bf8e&sender=666603319753565587)) and **Malawi Wood Kraft** (sustainably sourced wooden handcrafted items).
+4.  **Adventure tourism at Monkey Bay**: guided **Hike-/Bike-/Rafting tours** around the plot with **"The Serious Curse of the Bloody Monkey"** geocaching multi-cache as a real-world serious game/adventure.
+5.  Lilongwe Therapy Center focuses on wellness and therapeutic services including physiotherapy, psychosocial counselling, spa services, stress management support, and holistic wellbeing experiences. The center aims to create a safe and supportive environment that promotes both physical and emotional wellness.
 
-## Business Idea {#sec-geschaeftsidee}
+BUSINESS SUSTAINABILITY To ensure sustainability, the company will maintain proper financial and operational management systems across all business divisions. Records for sales, expenses, bookings, and digital revenue will be monitored and evaluated regularly to ensure profitability and long-term growth.
 
-We are founding **Serious Ben Entertainment** as a creative studio with multiple complementary lines of business that reinforce one another across digital products, media, craft, and experiences. The globally accessible platform — [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org) — acts as the digital hub that connects the following pillars:
+## Fields
 
-1.  **Serious Health Games (SaaS + AI)** — self-contained modules that combine gamified mechanics with evidence-based health content. Flagship: **BenBen - Back School** (musculoskeletal prevention with posture detection via a self-developed CNN). Roadmap: relaxation training and Qi-Gong. Select modules can be certified for domestic reimbursement schemes (first target: **§20 SGB V** in Germany; typical price Dollar 150, reimbursement 75–150 Dollar).
-2.  **Media & YouTube** — the original **Dating Show "Love is Warm"** plus ongoing **YouTube** content documenting the off-grid Monkey Bay plot, builds, and studio life (revenue via ads, sponsorships, brand integrations, and merch).
-3.  **Artisan Crafts** — two product brands: **Kitenge Krafts** (fabric-based items; see Pinterest inspiration link above) and **Malawi Wood Kraft** (sustainably sourced wooden handcrafted items). Sales via own shop and marketplaces; content-driven commerce via YouTube/Pinterest/Instagram Shops.
-4.  **Adventure Tourism & Real-World Serious Games** — guided **Hike-/Bike-/Rafting tours** around the Monkey Bay plot including a geocaching multi-cache, **"The Serious Curse of the Bloody Monkey"**, as a real-life serious game/adventure experience.
-5.  **AI-supported and classical coaching** — holistic personal development and health coaching, delivered globally via video/chat.
-6.  **Free diagnostic mini-apps** — questionnaires, personality games, posture/back checks as entry points that drive trust and conversion into paid offerings across the portfolio.
-7.  **Lecturing at Hochschule Fresenius** — stabilizing side income during the start-up phase (Year 1/2).
+All fields of operation are listed here.
 
-The technical implementation across lines is delivered via:
+### Marketing
 
-- An **Angular-based web application** ([www.seriousbenentertainment.org](https://www.seriousbenentertainment.org)) as the central SaaS and content hub
-- **Serious Games** for playful health promotion
-- **Conversational AI and AI-supported analyses** for personalization
-- **Shop/checkout integrations** for Kitenge Krafts and Malawi Wood Kraft
-- **Booking integrations** for Monkey Bay tours and experiences
-- **Scalable cloud infrastructure** (e.g., Snowflake Cloud) for flexible service delivery without high fixed costs
-- **Media production stack** for "Love is Warm" and YouTube: cameras, sound, lighting, editing and scheduling workflows
-- **In-house development** supported by my own developer skills, GitHub Copilot, and other development tools to avoid high costs, as well as best practices learned at adesso SE
+The business will primarily use digital marketing strategies through:
+
+1.  ticktok
+2.  YouTube
+3.  facebook
+4.  Instagram
+
+5.E-commerce platforms
+
+6.Influencer collaborations
+
+### Target Population
+
+The platform and studio offerings target a global English-speaking audience and select on-the-ground customers in Malawi:
+
+- Health-conscious private individuals worldwide — direct end customers of Serious Health Games
+- International employers — workplace health and wellness programs (B2B)
+- Coaching clients — personal and AI-supported development support
+- Viewers and fans — YouTube/Dating Show audiences; sponsors/brand partners
+- Craft customers — global buyers of Kitenge Krafts and Malawi Wood Kraft via own shop and marketplaces
+- Tourists and travellers — visitors to Monkey Bay seeking guided outdoor experiences
+- Clinical and NGO partners — integrating modules into care pathways
+- Domestic payers — selectively, statutory health insurance and equivalents (e.g., §20 SGB V in Germany) for module-specific reimbursement
+
+### Pricing Policy
+
+The pricing strategy will depend on the nature of each division. Handmade products and tourism activities will include production and operational costs plus a profit margin, while digital content and entertainment services will rely on monetization, sponsorships, and partnerships.
+
+### Advertising Plan
+
+Short-Term Plan (6–12 months) Focus on social media growth, content creation, pilot productions, and local market awareness.
+
+#### Mid-Term Plan (1–3 years)
+
+Build international brand recognition, strengthen digital monetization, and establish tourism and wellness partnerships.
+
+#### Long-Term Plan (3–5 years)
+
+Expand internationally through collaborations, large-scale productions, export opportunities, and global digital marketing.
+
+### Competitive Analysis
+
+Many businesses focus on only one sector such as entertainment, crafts, tourism, or wellness. However, Serious Ben Entertainment integrates multiple creative and service industries into one ecosystem.
+
+The combination of AI-supported systems, interracial relationship entertainment, eco-tourism, therapy services, and handmade cultural products creates a unique business model capable of attracting diverse audiences and generating multiple revenue
+
+### Competitive Advantage
+
+The company’s major advantage lies in its integrated ecosystem where each division supports and promotes the others.
+
+For example:
+
+Love Is Warm can promote tourism destinations and wellness experiences
+
+Kitenge Krafts products can be featured in entertainment productions
+
+Serious Games can integrate therapeutic and educational elements
+
+Tourism and therapy services can collaborate on wellness retreats
+
+This interconnected structure strengthens the overall brand while reducing marketing costs and increasing customer engagement.
+
+### Operations
+
+For starters, operations will be divided according to each business division. Content production and digital operations will be managed primarily online, while product manufacturing and therapy services will operate physically within Lilongwe.love is warm and hike/bike rafting will be done in Monkey Bay.
+
+SUSTAINABLE DEVELOPMENT MEASURES OF PERFORMANCE
+
+To ensure minimal environmental impact and long-term sustainability, the company will:
+
+1.Utilize reusable and recyclable materials where possible.
+
+2.Promote eco-tourism and responsible tourism practices.
+
+3.Reduce waste through creative reuse of leftover materials. 4.Encourage community participation and local collaborations.
+
+5.Utilize digital systems to reduce paper usage and operational costs
+
+### Financial Segment
+
+#### Critical Risks
+
+1.Economic instability and low consumer purchasing power
+
+2.Seasonal tourism fluctuations
+
+3.Competition within digital entertainment markets
+
+Solution:To reduce these risks, the company will diversify its income streams, strengthen digital marketing strategies, develop partnerships, and gradually scale operations according to revenue growth.
+
+### Milestone Schedule
+
+Year 1:Brand establishment, Social media growth,Pilot productions, Product testing,Launch of therapy services
+
+Year 2–3:Expansion of tourism and wellness services, Growth of digital monetization, International collaborations
+
+Year 4–5: International brand expansion, Scaled productions,Export growth
+
+### Website
 
 ![Website – Health Courses](./topics/Webpage.png)
 
@@ -118,19 +204,6 @@ The **flagship Serious Health Game** is **BenBen - Back School**, a self-contain
 For the **German domestic market**, BenBen - Back School is being prepared as the studio's first §20 SGB V certified primary-prevention course: priced at 150 Dollars, with German statutory health insurance funds reimbursing up to 150 Dollars. The Central Examination Office for Prevention (ZPP) certifies such offerings under §20 SGB V — e.g., in the category [Game-based learning / serious games / e-teaching](https://www.zentrale-pruefstelle-praevention.de/leistungen/praeventionsangebot-zertifizieren-lassen/ikt-angebote/zertifizierbare-ikt-formate/). Equivalent domestic adaptations (employer pricing in the US, NHS-aligned content in the UK, MASM/CHAM partnerships in Malawi) are evaluated for each subsequent module.
 :::
 
-### Target Groups and Positioning
-
-The platform and studio offerings target a **global English-speaking audience** and select on-the-ground customers in Malawi:
-
-- **Health-conscious private individuals worldwide** — direct end customers of Serious Health Games
-- **International employers** — workplace health and wellness programs (B2B)
-- **Coaching clients** — personal and AI-supported development support
-- **Viewers and fans** — YouTube/Dating Show audiences; sponsors/brand partners
-- **Craft customers** — global buyers of Kitenge Krafts and Malawi Wood Kraft via own shop and marketplaces
-- **Tourists and travelers** — visitors to Monkey Bay seeking guided outdoor experiences
-- **Clinical and NGO partners** — integrating modules into care pathways
-- **Domestic payers** — selectively, statutory health insurance and equivalents (e.g., §20 SGB V in Germany) for module-specific reimbursement
-
 We position the company as a **studio for evidence-based Serious Health Games and digital coaching — and a creative house for media, crafts, and real-world serious-game adventures**. The dual founding team anchors this breadth:
 
 - **Benjamin Gross** combines clinical practice (physiotherapist, Alexander Technique teacher, burnout coach), health-economics training (B.Sc., 2017–2019), and Data Science (M.Sc., 2023–2026, University of Edinburgh). He has built e-Health products since 2019 and brings the technical, clinical and product perspective.
@@ -139,28 +212,6 @@ We position the company as a **studio for evidence-based Serious Health Games an
 This combination — clinical depth, data-science capability, and creative-therapeutic authorship — is the studio's core differentiator and feeds directly into the development of intelligent, scalable, emotionally meaningful SaaS products.
 
 The business model uses modern cloud technologies (e.g., Snowflake) for flexible scalability (compute and data storage) and enables location-independent use of all services via the web platform [**www.seriousbenentertainment.org**](https://www.seriousbenentertainment.org), with fixed base costs and minimal hardware investment.
-
-## Markets {#sec-maerkte}
-
-The **global market** for digital health applications and Serious Games continues to grow, complemented by robust adjacent markets in the **creator economy (YouTube and original formats)**, **artisanal e-commerce**, and **experience-based tourism**. The COVID-19 pandemic accelerated acceptance of digital health solutions; the current AI wave fuels interest in AI-driven coaching and assessment. In parallel, craft and experiential travel continue to benefit from content-driven discovery and niche community building. The need for low-threshold prevention offerings is rising globally due to:
-
-- Demographic change and increasing life expectancy in high-income markets
-- Rise of stress-related illnesses and psychological strain across cultures
-- Lack of exercise and back complaints in increasingly sedentary work and everyday life
-- The general digitalization of healthcare in both mature and emerging markets
-
-The founding of **Serious Ben Entertainment** builds on the founders' combined experience: Benjamin's many years as a physiotherapist, personal trainer, course leader, coach and managing director of a therapy center, where he repeatedly recognized the limits of traditional care structures; and Phelire's social-work and creative-healing practice in Malawi, which provides direct insight into community-level mental-health and resilience needs. Digital, scalable solutions make it possible to overcome the limitations of local care structures and to deliver innovative health promotion globally. Prior projects illustrate the technical capability: a Bachelor's-thesis iPad Serious Game exhibited at Gamescom 2019, and a data portal for Kamuzu Central Hospital in Lilongwe, Malawi, with AI-supported assistance.
-
-### Market Potentials
-
-Significant growth potential exists across the studio’s lines:
-
-- **Workplace wellness (worldwide):** Employers in the US, UK, EU and increasingly across Africa and Asia invest in scalable digital solutions for employee health — a primary revenue channel for Serious Health Games.
-- **Direct-to-consumer health games and coaching:** Evidence-based, gamified prevention products monetize via subscriptions or per-module pricing; coaching adds higher-touch services.
-- **Creator economy (YouTube & original formats):** Monetization via ads, sponsorships, product placement, affiliate partnerships, and merch. The Dating Show "Love is Warm" provides a tentpole format; studio and off-grid content supports always-on engagement.
-- **Artisanal e-commerce (global):** Kitenge Krafts and Malawi Wood Kraft address buyers seeking authentic, ethically produced craft goods; discoverability via YouTube, Pinterest, Instagram, and marketplaces.
-- **Experience-based tourism (Monkey Bay, Malawi):** Guided Hike-/Bike-/Rafting tours with a real-world serious game appeal to adventure and culture travelers; cross-sell via content and craft brand storytelling.
-- **Domestic reimbursement schemes (selective):** For Serious Health Games, individual modules can be certified for domestic reimbursement; the German **§20 SGB V** market is the first example.
 
 ### Professional Foundations
 
@@ -275,7 +326,7 @@ Further details can be found in the attached CVs of both founders.
 **Core technical competencies:**
 
 - **Programming:** Python, R, JavaScript/TypeScript, Angular
-- **Data Engineering:** Snowflake, SQL, ETL processes, data modeling
+- **Data Engineering:** Snowflake, SQL, ETL processes, data modelling
 - **AI/ML:** TensorFlow, Hugging Face, OpenAI API, RAG systems
 - **DevOps:** Docker, Git/GitHub, CI/CD
 - **Health IT:** HL7v2, FHIR, HIS/PMS systems
@@ -284,7 +335,7 @@ Further details can be found in the attached CVs of both founders.
 
 - Extensive teaching experience at universities and vocational schools
 - Adult education and didactic preparation of complex content
-- Coaching training (Alexander Technique, burnout counseling)
+- Coaching training (Alexander Technique, burnout counselling)
 - Experience in developing eLearning content and Serious Games
 
 ### Professional Experience and Competencies — Phelire Chisi
@@ -353,13 +404,13 @@ We price transparently across digital, media-enabled, craft, and experiential of
 **Serious Health Games (global):**
 
 - Price: **Dollar 150.00** per module (8–10 weeks structured content)
-- Offerings: BenBen - Back School, relaxation training, Qi-Gong
+- Offerings: BenBox - Back School, relaxation training, Qi-Gong
 - **Domestic adaptation example — Germany (§20 SGB V):** identical 150 Dollar price; **75–150 Dollar reimbursement** by German statutory health-insurance funds; customer's own contribution **0–75 Dollar**
 
 **Coaching Services (global):**
 
 - **AI-supported coaching:** Monthly subscription Dollar 30.00
-- **Coaching:** Dollar 125.00 per session (60 min.)
+- **Coaching:** Dollar 125.00 per session (60 min)
 - **Coaching package:** Dollar 650.00 (6 sessions)
 
 **Media & YouTube (global):**
@@ -463,8 +514,8 @@ The productive launch of the SaaS platform [**www.seriousbenentertainment.org**]
 **Phase 1 (Q3 2026): Soft Launch (global, English-first)**
 
 - Publication of the website with free diagnostic apps for a worldwide audience
-- Launch of the first Serious Health Game module — **BenBen - Back School**
-- Start of the German §20 SGB V certification process for BenBen - Back School (first domestic adaptation)
+- Launch of the first Serious Health Game module — **BenBox - Back School**
+- Start of the German §20 SGB V certification process for BenBox - Back School (first domestic adaptation)
 - Building the first global user base through the freemium strategy
 
 **Phase 2 (Q4 2026 – Q1 2027): Product Expansion**
@@ -596,7 +647,7 @@ CRITICAL RISKS
 #### Pre-founding
 
 | Item | Amount in Dollar |
-|------------------------------------------------------|------------------|
+|----|----|
 | Start-up advisory | 200.00 |
 | Registrations / notifications / permits (Trade Office, IHK) | 100.00 |
 | Legal advice (data protection, T&Cs) | 300.00 |
@@ -742,7 +793,7 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 ### Income and Expenses (extrapolated and estimated)
 
 | Item | 2026 (6 mo.) (Dollar) | Year 2027 (Dollar) | Year 2028 (Dollar) |
-|------------------|-------------------|------------------|------------------|
+|------------------|------------------|------------------|------------------|
 | **Net income** |  |  |  |
 | Serious Health Game modules (global + selective §20 Germany) | 1,200.00 | 6,000.00 | 12,000.00 |
 | Coaching | 750.00 | 3,600.00 | 6,000.00 |
@@ -800,6 +851,22 @@ ggplot(df_long, aes(x = Year, y = Amount, fill = Category)) +
 
 # Marketing Materials & Market Access {#sec-werbemittel}
 
+## Market Potentials
+
+Significant growth potential exists across the studio’s lines:
+
+- **Workplace wellness (worldwide):** Employers in the US, UK, EU and increasingly across Africa and Asia invest in scalable digital solutions for employee health — a primary revenue channel for Serious Health Games.
+
+- **Direct-to-consumer health games and coaching:** Evidence-based, gamified prevention products monetize via subscriptions or per-module pricing; coaching adds higher-touch services.
+
+- **Creator economy (YouTube & original formats):** Monetization via ads, sponsorships, product placement, affiliate partnerships, and merch. The Dating Show "Love is Warm" provides a tent-pole format; studio and off-grid content supports always-on engagement.
+
+- **Artisanal e-commerce (global):** Kitenge Krafts and Malawi Wood Kraft address buyers seeking authentic, ethically produced craft goods; discoverability via YouTube, Pinterest, Instagram, and marketplaces.
+
+- **Experience-based tourism (Monkey Bay, Malawi):** Guided Hike-/Bike-/Rafting tours with a real-world serious game appeal to adventure and culture travellers; cross-sell via content and craft brand storytelling.
+
+- **Domestic reimbursement schemes (selective):** For Serious Health Games, individual modules can be certified for domestic reimbursement; the German **§20 SGB V** market is the first example.
+
 ## SaaS Platform {#sec-saas-plattform}
 
 **Homepage:** [www.seriousbenentertainment.org](https://www.seriousbenentertainment.org)
@@ -809,7 +876,7 @@ The central web platform serves as the hub for all services:
 **Technical implementation:**
 
 - **Frontend:** Angular-based single-page application
-- **Backend:** Cloud-native architecture (Snowflake, Node.js)
+- **Backend:** Cloud-native architecture (Docker)
 - **AI integration:** Conversational AI, personalized recommendations
 - **Responsive design:** Optimized for desktop, tablet, and mobile
 
@@ -827,7 +894,7 @@ The central web platform serves as the hub for all services:
 
 ### Serious Health Game Modules (150 Dollars each, global price)
 
-**1. BenBen - Back School – Flagship Module**
+**1. BenBox - Back School – Flagship Module**
 
 - Serious Game for back health, with characters and narrative authored by Phelire Chisi (creative direction) and clinical content by Benjamin Gross
 - 8–10 weeks structured program
@@ -865,12 +932,12 @@ The central web platform serves as the hub for all services:
 **Kitenge Krafts:**
 
 - Fabric-based handcrafted items (bags, accessories, home goods) inspired by Malawian design.
-- Inspiration/moodboard: Pinterest — https://de.pinterest.com/tamarachisi/?invite_code=eec32672190e4c3f8c5b0eb17384bf8e&sender=666603319753565587
+- Inspiration/moodboard: [Pinterest](https://de.pinterest.com/tamarachisi/?invite_code=eec32672190e4c3f8c5b0eb17384bf8e&sender=666603319753565587)
 - Drops synchronized with content releases; sustainable material sourcing where possible.
 
 **Malawi Wood Kraft:**
 
-- Sustainably sourced wooden handcrafted items (homeware, decor, small furniture and utility pieces where feasible).
+- Sustainably sourced wooden handcrafted items (homeware, décor, small furniture and utility pieces where feasible).
 - Small-batch production; limited editions; custom commissions by request.
 
 ### Adventure Tourism — Monkey Bay (On-site)
@@ -891,14 +958,14 @@ The central web platform serves as the hub for all services:
 
 - Conversational AI for daily reflection
 - Personalized development plans
-- Behavior tracking and feedback
+- Behaviour tracking and feedback
 - Evidence-based recommendations
 
 **Coaching (Dollar125/session):**
 
 - 60-minute individual sessions
 - Video coaching via secure platform
-- Holistic approach (body, mind, behavior)
+- Holistic approach (body, mind, behaviour)
 - Focus: burnout prevention, work-life balance, leadership skills
 
 ### Free Lead Generation
@@ -909,7 +976,7 @@ After evaluation: Personalized recommendations for paid offerings
 
 ## Mobile App (planned) {#sec-mobile-app}
 
-**App Name:** BenBen
+**App Name:** BenBox
 
 **Status:** Development planned for 2027 (worldwide territories)
 
@@ -969,7 +1036,7 @@ The following overview addresses the central questions of the Cologne Business c
 
 **3. Competitive situation:**
 
-- [x] Competitors known and analyzed
+- [x] Competitors known and analysed
 - [x] Prices calculated in line with the global market
 - [x] Unique selling points clearly defined: interdisciplinary clinical-creative expertise, AI integration, domestic-adaptation strategy
 - [x] Sales methods: SaaS platform direct, B2B employer channel, plus selective domestic-reimbursement directories (e.g., German §20 directories)
@@ -1011,5 +1078,3 @@ The following overview addresses the central questions of the Cologne Business c
 - Private health insurance: Dollar363 monthly
 - Pension insurance: Dollar00.00 monthly
   - Retirement provision through private property in Malawi (Phelire's home country, with low cost of living)
-
-\clearpage
