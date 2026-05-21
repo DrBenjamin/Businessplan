@@ -9,6 +9,10 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Dispatch to site repo
         uses: peter-evans/repository-dispatch@v3
         with:
